@@ -1,0 +1,13 @@
+{
+  "dataset_rows": 1200,
+  "date_range_start": "2025-01-01",
+  "date_range_end": "2025-12-31",
+  "total_orders": 1200,
+  "total_units": 2973,
+  "gross_sales_inr": 4997221.62,
+  "net_sales_inr": 4598691.87,
+  "average_order_value_inr": 3832.24,
+  "top_category_by_net_sales": "Electronics",
+  "top_city_by_net_sales": "Hyderabad",
+  "top_payment_method_by_orders": "UPI"
+}

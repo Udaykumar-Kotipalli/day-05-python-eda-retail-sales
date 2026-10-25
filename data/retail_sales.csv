@@ -1,0 +1,1201 @@
+order_id,order_date,city,category,product,quantity,unit_price_inr,discount_pct,gross_sales_inr,net_sales_inr,payment_method
+ORD-00606,2025-01-01,Mumbai,Electronics,Smart Watch,4,3110.92,0.1,12443.68,11199.31,UPI
+ORD-01183,2025-01-01,Pune,Fashion,Denim Jeans,1,1880.55,0.1,1880.55,1692.49,UPI
+ORD-00447,2025-01-02,Pune,Beauty,Hair Dryer,1,1424.35,0.0,1424.35,1424.35,UPI
+ORD-01045,2025-01-03,Bengaluru,Fashion,Sneakers,1,2002.65,0.0,2002.65,2002.65,UPI
+ORD-01120,2025-01-03,Chennai,Fashion,Casual Shirt,4,989.47,0.15,3957.88,3364.2,Net Banking
+ORD-00725,2025-01-04,Delhi,Fashion,Sneakers,2,2631.83,0.05,5263.66,5000.48,Cash
+ORD-00699,2025-01-04,Bengaluru,Beauty,Hair Dryer,1,1228.6,0.1,1228.6,1105.74,Card
+ORD-01104,2025-01-04,Hyderabad,Electronics,Bluetooth Speaker,1,2606.73,0.1,2606.73,2346.06,UPI
+ORD-00646,2025-01-04,Chennai,Electronics,Smart Watch,1,2709.2,0.05,2709.2,2573.74,Card
+ORD-00074,2025-01-05,Mumbai,Fashion,Backpack,3,1854.98,0.0,5564.94,5564.94,Net Banking
+ORD-00844,2025-01-06,Chennai,Sports,Running Shoes,3,2689.33,0.15,8067.99,6857.79,Card
+ORD-00563,2025-01-07,Mumbai,Home & Kitchen,Mixer Grinder,3,2828.17,0.05,8484.51,8060.28,Cash
+ORD-00955,2025-01-07,Mumbai,Sports,Dumbbells,2,1548.31,0.1,3096.62,2786.96,Card
+ORD-00140,2025-01-07,Pune,Home & Kitchen,Cookware Set,3,1578.36,0.15,4735.08,4024.82,UPI
+ORD-00433,2025-01-07,Pune,Fashion,Sneakers,2,2854.28,0.1,5708.56,5137.7,UPI
+ORD-00992,2025-01-07,Delhi,Sports,Water Bottle,1,507.16,0.0,507.16,507.16,UPI
+ORD-00430,2025-01-08,Chennai,Fashion,Sneakers,2,2564.52,0.1,5129.04,4616.14,Cash
+ORD-00864,2025-01-08,Chennai,Home & Kitchen,Storage Organizer,3,709.67,0.15,2129.01,1809.66,UPI
+ORD-00098,2025-01-08,Pune,Electronics,Wireless Earbuds,1,1265.31,0.2,1265.31,1012.25,UPI
+ORD-01100,2025-01-09,Pune,Home & Kitchen,Cookware Set,4,1898.17,0.0,7592.68,7592.68,Card
+ORD-01071,2025-01-09,Chennai,Fashion,Casual Shirt,4,714.86,0.0,2859.44,2859.44,Card
+ORD-01022,2025-01-11,Chennai,Fashion,Casual Shirt,2,994.29,0.0,1988.58,1988.58,Card
+ORD-00252,2025-01-11,Hyderabad,Electronics,Power Bank,3,1078.62,0.05,3235.86,3074.07,Net Banking
+ORD-00105,2025-01-12,Mumbai,Beauty,Skin Care Kit,2,1112.87,0.0,2225.74,2225.74,Net Banking
+ORD-00216,2025-01-12,Bengaluru,Fashion,Sneakers,1,2402.87,0.0,2402.87,2402.87,Cash
+ORD-00248,2025-01-12,Mumbai,Fashion,Backpack,1,1688.47,0.05,1688.47,1604.05,Card
+ORD-00990,2025-01-12,Delhi,Electronics,Power Bank,2,1180.4,0.15,2360.8,2006.68,UPI
+ORD-00609,2025-01-12,Chennai,Fashion,Casual Shirt,3,817.27,0.05,2451.81,2329.22,UPI
+ORD-00284,2025-01-13,Chennai,Beauty,Perfume,1,1891.07,0.0,1891.07,1891.07,Card
+ORD-00950,2025-01-13,Chennai,Fashion,Casual Shirt,1,858.21,0.05,858.21,815.3,Card
+ORD-00421,2025-01-13,Bengaluru,Home & Kitchen,Electric Kettle,4,1339.66,0.0,5358.64,5358.64,UPI
+ORD-01095,2025-01-13,Delhi,Home & Kitchen,Cookware Set,3,2295.95,0.2,6887.85,5510.28,Net Banking
+ORD-00592,2025-01-13,Mumbai,Beauty,Face Serum,2,576.03,0.2,1152.06,921.65,Net Banking
+ORD-01036,2025-01-13,Mumbai,Electronics,Wireless Earbuds,4,1829.63,0.0,7318.52,7318.52,UPI
+ORD-00024,2025-01-13,Bengaluru,Sports,Water Bottle,4,358.35,0.05,1433.4,1361.73,UPI
+ORD-00858,2025-01-14,Pune,Home & Kitchen,Cookware Set,3,2056.62,0.2,6169.86,4935.89,UPI
+ORD-00260,2025-01-15,Mumbai,Home & Kitchen,Storage Organizer,1,635.4,0.0,635.4,635.4,Card
+ORD-01108,2025-01-17,Mumbai,Electronics,Power Bank,3,1158.89,0.05,3476.67,3302.84,Card
+ORD-00823,2025-01-18,Hyderabad,Electronics,Power Bank,4,1310.83,0.0,5243.32,5243.32,Cash
+ORD-00125,2025-01-19,Chennai,Fashion,Backpack,1,1494.08,0.05,1494.08,1419.38,Cash
+ORD-01151,2025-01-19,Delhi,Electronics,Wireless Earbuds,4,2266.87,0.05,9067.48,8614.11,Card
+ORD-00251,2025-01-19,Delhi,Beauty,Hair Dryer,3,1224.77,0.1,3674.31,3306.88,UPI
+ORD-00529,2025-01-20,Mumbai,Electronics,Smart Watch,3,3517.43,0.1,10552.29,9497.06,Card
+ORD-00488,2025-01-20,Bengaluru,Sports,Water Bottle,4,452.11,0.2,1808.44,1446.75,UPI
+ORD-00558,2025-01-20,Chennai,Fashion,Casual Shirt,1,844.22,0.15,844.22,717.59,Card
+ORD-00075,2025-01-20,Mumbai,Sports,Yoga Mat,2,636.33,0.05,1272.66,1209.03,Card
+ORD-00013,2025-01-20,Pune,Home & Kitchen,Mixer Grinder,3,2693.26,0.05,8079.78,7675.79,Card
+ORD-00456,2025-01-21,Hyderabad,Fashion,Casual Shirt,1,961.74,0.2,961.74,769.39,UPI
+ORD-00786,2025-01-21,Mumbai,Fashion,Backpack,1,1453.36,0.1,1453.36,1308.02,Card
+ORD-00608,2025-01-22,Bengaluru,Home & Kitchen,Mixer Grinder,2,2502.42,0.15,5004.84,4254.11,Card
+ORD-00301,2025-01-22,Hyderabad,Electronics,Wireless Earbuds,1,1620.46,0.2,1620.46,1296.37,Card
+ORD-00518,2025-01-22,Mumbai,Electronics,Wireless Earbuds,4,2050.09,0.05,8200.36,7790.34,UPI
+ORD-00732,2025-01-23,Mumbai,Home & Kitchen,Storage Organizer,3,832.49,0.1,2497.47,2247.72,Cash
+ORD-00213,2025-01-23,Pune,Beauty,Hair Dryer,4,1525.13,0.1,6100.52,5490.47,UPI
+ORD-00238,2025-01-23,Hyderabad,Home & Kitchen,Electric Kettle,2,1460.54,0.2,2921.08,2336.86,UPI
+ORD-00053,2025-01-23,Hyderabad,Fashion,Sneakers,4,1853.42,0.1,7413.68,6672.31,Card
+ORD-00384,2025-01-23,Hyderabad,Fashion,Casual Shirt,3,961.17,0.05,2883.51,2739.33,Net Banking
+ORD-00023,2025-01-23,Delhi,Fashion,Casual Shirt,4,906.21,0.1,3624.84,3262.36,Card
+ORD-00219,2025-01-24,Hyderabad,Electronics,Wireless Earbuds,3,1747.66,0.15,5242.98,4456.53,Card
+ORD-00796,2025-01-24,Chennai,Fashion,Sneakers,2,1984.84,0.15,3969.68,3374.23,Card
+ORD-00229,2025-01-25,Mumbai,Electronics,Wireless Earbuds,3,1434.72,0.2,4304.16,3443.33,Net Banking
+ORD-01158,2025-01-25,Bengaluru,Sports,Dumbbells,4,1661.16,0.1,6644.64,5980.18,UPI
+ORD-00453,2025-01-25,Hyderabad,Sports,Water Bottle,2,425.81,0.0,851.62,851.62,Cash
+ORD-00383,2025-01-25,Mumbai,Electronics,Power Bank,3,1123.1,0.1,3369.3,3032.37,Net Banking
+ORD-00602,2025-01-26,Hyderabad,Home & Kitchen,Storage Organizer,4,711.9,0.1,2847.6,2562.84,Net Banking
+ORD-00222,2025-01-26,Mumbai,Electronics,Bluetooth Speaker,3,2378.03,0.05,7134.09,6777.39,UPI
+ORD-00810,2025-01-27,Hyderabad,Sports,Running Shoes,4,2484.88,0.15,9939.52,8448.59,UPI
+ORD-00576,2025-01-27,Bengaluru,Home & Kitchen,Storage Organizer,1,818.46,0.05,818.46,777.54,Card
+ORD-00201,2025-01-27,Pune,Sports,Yoga Mat,2,848.86,0.1,1697.72,1527.95,UPI
+ORD-00987,2025-01-28,Delhi,Home & Kitchen,Storage Organizer,4,649.2,0.05,2596.8,2466.96,Card
+ORD-00834,2025-01-29,Bengaluru,Electronics,Power Bank,1,788.32,0.1,788.32,709.49,UPI
+ORD-00173,2025-01-29,Bengaluru,Home & Kitchen,Cookware Set,3,1666.47,0.0,4999.41,4999.41,UPI
+ORD-00304,2025-01-29,Bengaluru,Electronics,Power Bank,3,936.96,0.1,2810.88,2529.79,UPI
+ORD-00672,2025-01-29,Hyderabad,Fashion,Casual Shirt,1,881.68,0.05,881.68,837.6,UPI
+ORD-00010,2025-01-30,Bengaluru,Beauty,Perfume,2,1793.22,0.0,3586.44,3586.44,Cash
+ORD-00856,2025-01-30,Bengaluru,Electronics,Bluetooth Speaker,2,2623.63,0.1,5247.26,4722.53,Card
+ORD-00910,2025-01-31,Pune,Beauty,Face Serum,2,748.1,0.15,1496.2,1271.77,Card
+ORD-00336,2025-02-01,Hyderabad,Beauty,Hair Dryer,2,1506.57,0.05,3013.14,2862.48,UPI
+ORD-00505,2025-02-01,Delhi,Beauty,Skin Care Kit,1,1021.7,0.0,1021.7,1021.7,Card
+ORD-00766,2025-02-01,Mumbai,Electronics,Smart Watch,2,3325.48,0.1,6650.96,5985.86,UPI
+ORD-00108,2025-02-02,Hyderabad,Fashion,Backpack,3,1468.26,0.05,4404.78,4184.54,Card
+ORD-00051,2025-02-02,Hyderabad,Sports,Water Bottle,4,396.48,0.1,1585.92,1427.33,UPI
+ORD-00702,2025-02-02,Bengaluru,Sports,Dumbbells,3,1350.35,0.15,4051.05,3443.39,UPI
+ORD-00484,2025-02-03,Bengaluru,Sports,Dumbbells,3,1447.64,0.05,4342.92,4125.77,Cash
+ORD-00470,2025-02-04,Delhi,Sports,Yoga Mat,2,785.48,0.05,1570.96,1492.41,UPI
+ORD-01003,2025-02-04,Bengaluru,Fashion,Casual Shirt,2,905.53,0.15,1811.06,1539.4,Cash
+ORD-01021,2025-02-04,Bengaluru,Beauty,Face Serum,3,602.79,0.0,1808.37,1808.37,UPI
+ORD-00681,2025-02-04,Hyderabad,Electronics,Smart Watch,3,3132.54,0.0,9397.62,9397.62,UPI
+ORD-00371,2025-02-05,Chennai,Electronics,Smart Watch,2,3086.9,0.0,6173.8,6173.8,UPI
+ORD-00582,2025-02-05,Hyderabad,Home & Kitchen,Mixer Grinder,3,2154.57,0.1,6463.71,5817.34,Card
+ORD-00194,2025-02-06,Hyderabad,Sports,Water Bottle,4,531.7,0.1,2126.8,1914.12,UPI
+ORD-00337,2025-02-06,Bengaluru,Electronics,Power Bank,3,999.65,0.0,2998.95,2998.95,Card
+ORD-00814,2025-02-06,Hyderabad,Fashion,Backpack,1,1538.52,0.0,1538.52,1538.52,UPI
+ORD-00435,2025-02-07,Mumbai,Electronics,Bluetooth Speaker,2,2513.78,0.15,5027.56,4273.43,UPI
+ORD-00275,2025-02-07,Mumbai,Home & Kitchen,Storage Organizer,4,830.51,0.0,3322.04,3322.04,UPI
+ORD-00617,2025-02-07,Hyderabad,Home & Kitchen,Storage Organizer,3,707.66,0.1,2122.98,1910.68,UPI
+ORD-01091,2025-02-07,Hyderabad,Home & Kitchen,Mixer Grinder,3,2503.46,0.0,7510.38,7510.38,Net Banking
+ORD-00795,2025-02-07,Pune,Electronics,Smart Watch,4,4179.67,0.0,16718.68,16718.68,UPI
+ORD-00255,2025-02-07,Bengaluru,Fashion,Denim Jeans,3,1539.9,0.0,4619.7,4619.7,UPI
+ORD-00291,2025-02-08,Pune,Sports,Dumbbells,1,2171.54,0.0,2171.54,2171.54,Card
+ORD-00404,2025-02-08,Pune,Sports,Water Bottle,4,446.61,0.05,1786.44,1697.12,UPI
+ORD-01088,2025-02-08,Delhi,Home & Kitchen,Mixer Grinder,4,2854.04,0.1,11416.16,10274.54,Card
+ORD-00270,2025-02-08,Delhi,Beauty,Skin Care Kit,3,1267.64,0.15,3802.92,3232.48,Card
+ORD-00320,2025-02-09,Mumbai,Beauty,Perfume,4,1805.22,0.1,7220.88,6498.79,UPI
+ORD-01101,2025-02-10,Hyderabad,Fashion,Casual Shirt,1,944.66,0.0,944.66,944.66,UPI
+ORD-00620,2025-02-10,Mumbai,Fashion,Casual Shirt,3,896.52,0.05,2689.56,2555.08,Net Banking
+ORD-00752,2025-02-10,Mumbai,Fashion,Backpack,1,1264.78,0.0,1264.78,1264.78,UPI
+ORD-00245,2025-02-11,Pune,Home & Kitchen,Cookware Set,2,2021.7,0.05,4043.4,3841.23,UPI
+ORD-00829,2025-02-11,Hyderabad,Fashion,Denim Jeans,2,1423.38,0.1,2846.76,2562.08,Card
+ORD-00028,2025-02-11,Mumbai,Electronics,Smart Watch,3,4135.61,0.15,12406.83,10545.81,UPI
+ORD-00688,2025-02-11,Hyderabad,Sports,Yoga Mat,1,934.27,0.05,934.27,887.56,UPI
+ORD-00361,2025-02-11,Mumbai,Home & Kitchen,Storage Organizer,2,614.48,0.0,1228.96,1228.96,UPI
+ORD-00481,2025-02-13,Hyderabad,Sports,Running Shoes,3,2605.84,0.15,7817.52,6644.89,UPI
+ORD-00852,2025-02-13,Hyderabad,Home & Kitchen,Electric Kettle,2,1272.77,0.1,2545.54,2290.99,Card
+ORD-01030,2025-02-13,Delhi,Home & Kitchen,Cookware Set,2,2051.74,0.1,4103.48,3693.13,Card
+ORD-00046,2025-02-13,Bengaluru,Fashion,Denim Jeans,1,1452.4,0.15,1452.4,1234.54,Net Banking
+ORD-00683,2025-02-13,Delhi,Fashion,Denim Jeans,2,1782.24,0.2,3564.48,2851.58,UPI
+ORD-00253,2025-02-13,Mumbai,Beauty,Face Serum,4,709.55,0.05,2838.2,2696.29,Card
+ORD-00254,2025-02-13,Hyderabad,Beauty,Face Serum,4,633.29,0.1,2533.16,2279.84,Cash
+ORD-00944,2025-02-13,Bengaluru,Home & Kitchen,Mixer Grinder,3,2685.34,0.05,8056.02,7653.22,UPI
+ORD-01085,2025-02-13,Bengaluru,Fashion,Denim Jeans,3,1616.4,0.2,4849.2,3879.36,Card
+ORD-00176,2025-02-14,Mumbai,Fashion,Sneakers,3,1948.6,0.1,5845.8,5261.22,Cash
+ORD-00887,2025-02-14,Hyderabad,Sports,Yoga Mat,2,736.15,0.0,1472.3,1472.3,Cash
+ORD-00903,2025-02-14,Chennai,Home & Kitchen,Electric Kettle,2,1076.68,0.15,2153.36,1830.36,UPI
+ORD-00184,2025-02-14,Pune,Home & Kitchen,Electric Kettle,3,1574.85,0.1,4724.55,4252.09,UPI
+ORD-00224,2025-02-14,Hyderabad,Electronics,Bluetooth Speaker,3,2468.4,0.1,7405.2,6664.68,Card
+ORD-00532,2025-02-14,Bengaluru,Electronics,Power Bank,2,1019.21,0.2,2038.42,1630.74,UPI
+ORD-01186,2025-02-15,Pune,Fashion,Casual Shirt,2,868.06,0.1,1736.12,1562.51,Net Banking
+ORD-00735,2025-02-15,Mumbai,Beauty,Perfume,2,1791.28,0.15,3582.56,3045.18,Card
+ORD-00697,2025-02-15,Hyderabad,Beauty,Hair Dryer,3,1382.13,0.0,4146.39,4146.39,UPI
+ORD-00417,2025-02-16,Mumbai,Fashion,Casual Shirt,2,875.06,0.0,1750.12,1750.12,UPI
+ORD-01029,2025-02-16,Pune,Home & Kitchen,Storage Organizer,3,738.1,0.0,2214.3,2214.3,UPI
+ORD-01048,2025-02-16,Hyderabad,Home & Kitchen,Cookware Set,3,2100.39,0.05,6301.17,5986.11,UPI
+ORD-00317,2025-02-17,Chennai,Electronics,Wireless Earbuds,1,1685.42,0.05,1685.42,1601.15,Card
+ORD-01074,2025-02-17,Hyderabad,Sports,Yoga Mat,4,931.38,0.05,3725.52,3539.24,Net Banking
+ORD-00196,2025-02-17,Hyderabad,Beauty,Perfume,3,1911.16,0.0,5733.48,5733.48,Cash
+ORD-01097,2025-02-17,Pune,Home & Kitchen,Cookware Set,1,2394.82,0.2,2394.82,1915.86,Cash
+ORD-00952,2025-02-18,Delhi,Home & Kitchen,Electric Kettle,2,1469.43,0.0,2938.86,2938.86,UPI
+ORD-00511,2025-02-18,Bengaluru,Beauty,Skin Care Kit,1,1192.92,0.15,1192.92,1013.98,UPI
+ORD-00574,2025-02-18,Mumbai,Beauty,Hair Dryer,4,1436.47,0.05,5745.88,5458.59,Card
+ORD-00615,2025-02-18,Hyderabad,Sports,Yoga Mat,4,780.72,0.15,3122.88,2654.45,Net Banking
+ORD-00186,2025-02-19,Chennai,Fashion,Sneakers,1,1927.12,0.15,1927.12,1638.05,UPI
+ORD-00086,2025-02-19,Mumbai,Electronics,Wireless Earbuds,3,1887.52,0.2,5662.56,4530.05,Net Banking
+ORD-00573,2025-02-19,Hyderabad,Electronics,Bluetooth Speaker,4,2750.72,0.0,11002.88,11002.88,UPI
+ORD-00879,2025-02-20,Chennai,Fashion,Backpack,3,1345.47,0.05,4036.41,3834.59,UPI
+ORD-00854,2025-02-20,Chennai,Electronics,Bluetooth Speaker,1,2740.45,0.0,2740.45,2740.45,Card
+ORD-00004,2025-02-21,Hyderabad,Electronics,Bluetooth Speaker,4,2289.97,0.0,9159.88,9159.88,Cash
+ORD-00912,2025-02-21,Bengaluru,Home & Kitchen,Mixer Grinder,1,2513.16,0.1,2513.16,2261.84,Cash
+ORD-00387,2025-02-22,Hyderabad,Fashion,Backpack,2,1528.56,0.2,3057.12,2445.7,UPI
+ORD-00162,2025-02-22,Pune,Fashion,Backpack,4,1381.02,0.15,5524.08,4695.47,Card
+ORD-00550,2025-02-22,Delhi,Home & Kitchen,Mixer Grinder,1,2668.97,0.2,2668.97,2135.18,UPI
+ORD-00871,2025-02-22,Bengaluru,Electronics,Smart Watch,2,3278.57,0.05,6557.14,6229.28,UPI
+ORD-00490,2025-02-22,Chennai,Electronics,Smart Watch,3,3342.69,0.1,10028.07,9025.26,UPI
+ORD-00277,2025-02-23,Mumbai,Fashion,Backpack,1,1264.56,0.05,1264.56,1201.33,UPI
+ORD-00420,2025-02-23,Mumbai,Electronics,Bluetooth Speaker,1,2803.33,0.2,2803.33,2242.66,UPI
+ORD-01170,2025-02-24,Mumbai,Electronics,Bluetooth Speaker,2,1803.15,0.1,3606.3,3245.67,Card
+ORD-01200,2025-02-24,Bengaluru,Electronics,Power Bank,3,1117.2,0.0,3351.6,3351.6,UPI
+ORD-00507,2025-02-24,Hyderabad,Fashion,Denim Jeans,1,1591.19,0.0,1591.19,1591.19,UPI
+ORD-00397,2025-02-24,Chennai,Sports,Yoga Mat,2,714.01,0.05,1428.02,1356.62,Net Banking
+ORD-00415,2025-02-24,Bengaluru,Fashion,Casual Shirt,4,806.63,0.05,3226.52,3065.19,UPI
+ORD-00658,2025-02-25,Mumbai,Beauty,Face Serum,2,735.64,0.0,1471.28,1471.28,UPI
+ORD-00959,2025-02-25,Hyderabad,Beauty,Hair Dryer,4,1431.32,0.05,5725.28,5439.02,UPI
+ORD-00654,2025-02-25,Bengaluru,Home & Kitchen,Mixer Grinder,1,2703.4,0.15,2703.4,2297.89,Card
+ORD-00866,2025-02-25,Delhi,Electronics,Wireless Earbuds,4,1896.51,0.0,7586.04,7586.04,Cash
+ORD-00066,2025-02-25,Pune,Electronics,Power Bank,1,1248.5,0.15,1248.5,1061.22,Net Banking
+ORD-00724,2025-02-26,Mumbai,Electronics,Wireless Earbuds,1,1330.59,0.0,1330.59,1330.59,Cash
+ORD-01179,2025-02-26,Bengaluru,Home & Kitchen,Storage Organizer,2,741.0,0.1,1482.0,1333.8,Card
+ORD-00369,2025-02-26,Bengaluru,Fashion,Casual Shirt,4,933.8,0.2,3735.2,2988.16,Card
+ORD-00984,2025-02-27,Chennai,Beauty,Skin Care Kit,3,1403.11,0.2,4209.33,3367.46,Card
+ORD-00479,2025-02-27,Mumbai,Electronics,Power Bank,3,1137.98,0.2,3413.94,2731.15,Card
+ORD-00412,2025-02-27,Chennai,Electronics,Bluetooth Speaker,4,1754.24,0.1,7016.96,6315.26,UPI
+ORD-00166,2025-02-28,Mumbai,Fashion,Casual Shirt,2,905.64,0.0,1811.28,1811.28,UPI
+ORD-00294,2025-02-28,Mumbai,Fashion,Sneakers,3,2365.73,0.2,7097.19,5677.75,Card
+ORD-00400,2025-02-28,Bengaluru,Home & Kitchen,Storage Organizer,3,764.26,0.05,2292.78,2178.14,Card
+ORD-00002,2025-02-28,Hyderabad,Fashion,Casual Shirt,2,882.08,0.0,1764.16,1764.16,Cash
+ORD-00158,2025-02-28,Pune,Fashion,Casual Shirt,3,900.99,0.1,2702.97,2432.67,UPI
+ORD-00656,2025-03-01,Pune,Electronics,Bluetooth Speaker,1,2435.05,0.1,2435.05,2191.55,UPI
+ORD-01122,2025-03-01,Chennai,Electronics,Bluetooth Speaker,4,2335.19,0.15,9340.76,7939.65,UPI
+ORD-00590,2025-03-01,Hyderabad,Electronics,Wireless Earbuds,4,1576.69,0.15,6306.76,5360.75,Net Banking
+ORD-00436,2025-03-01,Delhi,Fashion,Sneakers,2,2777.05,0.2,5554.1,4443.28,Card
+ORD-00153,2025-03-01,Mumbai,Sports,Water Bottle,4,405.66,0.15,1622.64,1379.24,Card
+ORD-00126,2025-03-01,Chennai,Sports,Dumbbells,4,1521.26,0.1,6085.04,5476.54,UPI
+ORD-00571,2025-03-02,Hyderabad,Fashion,Denim Jeans,4,1709.21,0.0,6836.84,6836.84,UPI
+ORD-01050,2025-03-02,Bengaluru,Home & Kitchen,Electric Kettle,1,1187.04,0.15,1187.04,1008.98,UPI
+ORD-00612,2025-03-02,Mumbai,Fashion,Backpack,4,1722.06,0.1,6888.24,6199.42,UPI
+ORD-00999,2025-03-02,Chennai,Fashion,Sneakers,4,2459.06,0.0,9836.24,9836.24,Card
+ORD-00516,2025-03-02,Delhi,Beauty,Perfume,3,2069.07,0.05,6207.21,5896.85,UPI
+ORD-00601,2025-03-02,Hyderabad,Electronics,Wireless Earbuds,2,1693.04,0.05,3386.08,3216.78,UPI
+ORD-01126,2025-03-03,Mumbai,Beauty,Perfume,4,1596.9,0.0,6387.6,6387.6,Card
+ORD-00543,2025-03-03,Hyderabad,Fashion,Casual Shirt,3,833.95,0.05,2501.85,2376.76,Card
+ORD-01056,2025-03-03,Mumbai,Beauty,Face Serum,1,662.89,0.1,662.89,596.6,UPI
+ORD-00744,2025-03-03,Mumbai,Home & Kitchen,Cookware Set,1,1611.86,0.15,1611.86,1370.08,Cash
+ORD-00029,2025-03-03,Hyderabad,Electronics,Wireless Earbuds,1,2205.18,0.15,2205.18,1874.4,Cash
+ORD-00907,2025-03-04,Mumbai,Sports,Yoga Mat,1,778.62,0.05,778.62,739.69,UPI
+ORD-00285,2025-03-04,Bengaluru,Fashion,Casual Shirt,4,866.83,0.15,3467.32,2947.22,Card
+ORD-00855,2025-03-04,Chennai,Fashion,Casual Shirt,2,832.16,0.15,1664.32,1414.67,UPI
+ORD-01075,2025-03-06,Pune,Electronics,Bluetooth Speaker,4,2288.31,0.05,9153.24,8695.58,Cash
+ORD-00001,2025-03-06,Delhi,Electronics,Bluetooth Speaker,3,2337.64,0.2,7012.92,5610.34,UPI
+ORD-00049,2025-03-06,Pune,Beauty,Perfume,1,1709.87,0.05,1709.87,1624.38,UPI
+ORD-00874,2025-03-07,Hyderabad,Fashion,Backpack,4,1345.4,0.1,5381.6,4843.44,Card
+ORD-00981,2025-03-07,Chennai,Sports,Water Bottle,2,494.23,0.1,988.46,889.61,Card
+ORD-01051,2025-03-07,Mumbai,Beauty,Hair Dryer,1,1560.67,0.1,1560.67,1404.6,Cash
+ORD-00445,2025-03-07,Delhi,Electronics,Smart Watch,2,3635.34,0.15,7270.68,6180.08,UPI
+ORD-00710,2025-03-07,Bengaluru,Home & Kitchen,Mixer Grinder,1,2473.17,0.15,2473.17,2102.19,Card
+ORD-00824,2025-03-07,Mumbai,Home & Kitchen,Mixer Grinder,3,3324.9,0.1,9974.7,8977.23,Card
+ORD-00685,2025-03-08,Mumbai,Electronics,Power Bank,4,1392.75,0.2,5571.0,4456.8,Net Banking
+ORD-00376,2025-03-08,Hyderabad,Fashion,Backpack,2,1578.92,0.15,3157.84,2684.16,UPI
+ORD-00112,2025-03-08,Chennai,Electronics,Wireless Earbuds,4,1839.79,0.2,7359.16,5887.33,Card
+ORD-00839,2025-03-09,Delhi,Beauty,Face Serum,2,784.71,0.1,1569.42,1412.48,UPI
+ORD-01080,2025-03-09,Mumbai,Home & Kitchen,Electric Kettle,1,1446.71,0.1,1446.71,1302.04,UPI
+ORD-01169,2025-03-10,Chennai,Fashion,Denim Jeans,3,1619.82,0.1,4859.46,4373.51,Net Banking
+ORD-00491,2025-03-10,Bengaluru,Home & Kitchen,Storage Organizer,2,702.8,0.0,1405.6,1405.6,UPI
+ORD-00405,2025-03-10,Bengaluru,Electronics,Bluetooth Speaker,4,2191.49,0.1,8765.96,7889.36,UPI
+ORD-01139,2025-03-10,Mumbai,Electronics,Bluetooth Speaker,4,2626.25,0.2,10505.0,8404.0,Net Banking
+ORD-00316,2025-03-10,Hyderabad,Home & Kitchen,Electric Kettle,2,1554.84,0.15,3109.68,2643.23,Card
+ORD-00181,2025-03-11,Hyderabad,Electronics,Smart Watch,1,3236.49,0.0,3236.49,3236.49,UPI
+ORD-00738,2025-03-11,Chennai,Fashion,Backpack,2,1645.64,0.1,3291.28,2962.15,Card
+ORD-00512,2025-03-11,Bengaluru,Electronics,Smart Watch,3,3560.95,0.1,10682.85,9614.56,Card
+ORD-00330,2025-03-12,Bengaluru,Fashion,Sneakers,4,2788.97,0.15,11155.88,9482.5,UPI
+ORD-01125,2025-03-12,Hyderabad,Beauty,Skin Care Kit,1,1032.46,0.0,1032.46,1032.46,Net Banking
+ORD-01165,2025-03-12,Pune,Beauty,Hair Dryer,4,1166.95,0.1,4667.8,4201.02,Card
+ORD-00947,2025-03-12,Bengaluru,Electronics,Smart Watch,4,3145.81,0.2,12583.24,10066.59,UPI
+ORD-00067,2025-03-13,Bengaluru,Fashion,Backpack,3,1404.88,0.2,4214.64,3371.71,Card
+ORD-00192,2025-03-13,Chennai,Home & Kitchen,Mixer Grinder,2,2905.42,0.1,5810.84,5229.76,Card
+ORD-00807,2025-03-13,Pune,Beauty,Perfume,3,1941.11,0.1,5823.33,5241.0,Card
+ORD-00989,2025-03-14,Delhi,Sports,Dumbbells,1,1817.1,0.05,1817.1,1726.24,Net Banking
+ORD-00441,2025-03-14,Pune,Electronics,Smart Watch,2,2893.61,0.1,5787.22,5208.5,UPI
+ORD-00740,2025-03-14,Delhi,Electronics,Power Bank,3,1012.6,0.1,3037.8,2734.02,Net Banking
+ORD-01140,2025-03-15,Mumbai,Electronics,Smart Watch,3,3715.25,0.15,11145.75,9473.89,Cash
+ORD-00843,2025-03-15,Delhi,Beauty,Perfume,2,1498.39,0.15,2996.78,2547.26,Card
+ORD-01155,2025-03-15,Hyderabad,Home & Kitchen,Mixer Grinder,4,2276.08,0.15,9104.32,7738.67,UPI
+ORD-00650,2025-03-15,Hyderabad,Sports,Yoga Mat,2,694.46,0.0,1388.92,1388.92,UPI
+ORD-00063,2025-03-16,Hyderabad,Fashion,Casual Shirt,1,840.4,0.2,840.4,672.32,Cash
+ORD-01093,2025-03-16,Hyderabad,Sports,Running Shoes,3,2656.35,0.15,7969.05,6773.69,UPI
+ORD-00831,2025-03-16,Hyderabad,Electronics,Bluetooth Speaker,4,2706.92,0.0,10827.68,10827.68,Net Banking
+ORD-00892,2025-03-16,Mumbai,Beauty,Face Serum,1,389.52,0.05,389.52,370.04,UPI
+ORD-00042,2025-03-17,Hyderabad,Fashion,Backpack,2,1475.31,0.1,2950.62,2655.56,Card
+ORD-00826,2025-03-17,Bengaluru,Home & Kitchen,Electric Kettle,4,1320.48,0.0,5281.92,5281.92,Net Banking
+ORD-00643,2025-03-17,Mumbai,Fashion,Denim Jeans,1,1776.79,0.0,1776.79,1776.79,UPI
+ORD-00327,2025-03-17,Delhi,Fashion,Denim Jeans,1,1660.15,0.05,1660.15,1577.14,UPI
+ORD-00534,2025-03-17,Mumbai,Beauty,Face Serum,1,715.05,0.0,715.05,715.05,Card
+ORD-00890,2025-03-18,Bengaluru,Fashion,Backpack,1,1395.62,0.0,1395.62,1395.62,Cash
+ORD-00848,2025-03-18,Mumbai,Home & Kitchen,Mixer Grinder,2,2162.03,0.0,4324.06,4324.06,UPI
+ORD-01083,2025-03-19,Hyderabad,Fashion,Sneakers,2,2530.82,0.0,5061.64,5061.64,Card
+ORD-00754,2025-03-20,Pune,Fashion,Denim Jeans,1,1894.56,0.2,1894.56,1515.65,Net Banking
+ORD-00765,2025-03-20,Chennai,Electronics,Wireless Earbuds,1,1842.69,0.1,1842.69,1658.42,UPI
+ORD-00193,2025-03-20,Mumbai,Electronics,Bluetooth Speaker,2,2127.2,0.1,4254.4,3828.96,UPI
+ORD-00886,2025-03-21,Bengaluru,Home & Kitchen,Electric Kettle,4,1187.63,0.1,4750.52,4275.47,UPI
+ORD-00449,2025-03-21,Pune,Home & Kitchen,Storage Organizer,3,674.84,0.15,2024.52,1720.84,UPI
+ORD-00293,2025-03-21,Bengaluru,Sports,Running Shoes,2,2895.96,0.1,5791.92,5212.73,Cash
+ORD-00375,2025-03-22,Hyderabad,Fashion,Casual Shirt,2,995.61,0.2,1991.22,1592.98,Card
+ORD-00865,2025-03-22,Chennai,Electronics,Wireless Earbuds,3,2088.69,0.2,6266.07,5012.86,Cash
+ORD-00533,2025-03-22,Hyderabad,Electronics,Smart Watch,3,3166.9,0.0,9500.7,9500.7,Cash
+ORD-01137,2025-03-22,Delhi,Sports,Water Bottle,1,482.09,0.15,482.09,409.78,UPI
+ORD-00461,2025-03-23,Hyderabad,Electronics,Smart Watch,3,2925.98,0.1,8777.94,7900.15,Card
+ORD-00128,2025-03-23,Pune,Beauty,Hair Dryer,1,1558.71,0.0,1558.71,1558.71,UPI
+ORD-00207,2025-03-23,Bengaluru,Home & Kitchen,Mixer Grinder,2,2366.55,0.2,4733.1,3786.48,Card
+ORD-00325,2025-03-23,Hyderabad,Fashion,Sneakers,3,2662.92,0.1,7988.76,7189.88,UPI
+ORD-01034,2025-03-23,Hyderabad,Fashion,Casual Shirt,4,969.3,0.1,3877.2,3489.48,Cash
+ORD-01184,2025-03-24,Hyderabad,Electronics,Smart Watch,1,3387.04,0.2,3387.04,2709.63,UPI
+ORD-00061,2025-03-24,Hyderabad,Electronics,Power Bank,3,1160.25,0.15,3480.75,2958.64,Card
+ORD-00593,2025-03-24,Bengaluru,Beauty,Face Serum,3,790.02,0.05,2370.06,2251.56,Card
+ORD-00148,2025-03-24,Chennai,Electronics,Wireless Earbuds,1,1911.3,0.05,1911.3,1815.73,Net Banking
+ORD-00242,2025-03-24,Bengaluru,Electronics,Power Bank,1,1205.63,0.2,1205.63,964.5,Net Banking
+ORD-00496,2025-03-24,Delhi,Sports,Running Shoes,4,2948.97,0.0,11795.88,11795.88,Card
+ORD-00872,2025-03-24,Bengaluru,Electronics,Wireless Earbuds,4,1541.6,0.15,6166.4,5241.44,Card
+ORD-01063,2025-03-24,Delhi,Home & Kitchen,Mixer Grinder,3,2778.59,0.1,8335.77,7502.19,Card
+ORD-00849,2025-03-25,Pune,Home & Kitchen,Storage Organizer,3,674.09,0.0,2022.27,2022.27,Net Banking
+ORD-00847,2025-03-25,Delhi,Sports,Running Shoes,4,2828.97,0.15,11315.88,9618.5,UPI
+ORD-00031,2025-03-25,Delhi,Home & Kitchen,Mixer Grinder,4,2919.42,0.1,11677.68,10509.91,UPI
+ORD-00969,2025-03-25,Bengaluru,Beauty,Hair Dryer,1,1197.26,0.1,1197.26,1077.53,UPI
+ORD-00468,2025-03-26,Hyderabad,Fashion,Sneakers,4,2240.28,0.0,8961.12,8961.12,UPI
+ORD-00206,2025-03-26,Mumbai,Fashion,Sneakers,1,1883.24,0.1,1883.24,1694.92,Card
+ORD-00139,2025-03-26,Delhi,Home & Kitchen,Cookware Set,1,1618.77,0.05,1618.77,1537.83,Net Banking
+ORD-00263,2025-03-26,Hyderabad,Fashion,Sneakers,3,2450.92,0.15,7352.76,6249.85,UPI
+ORD-00358,2025-03-27,Chennai,Fashion,Denim Jeans,1,1904.78,0.0,1904.78,1904.78,Cash
+ORD-00241,2025-03-27,Chennai,Electronics,Wireless Earbuds,2,1796.07,0.1,3592.14,3232.93,UPI
+ORD-00978,2025-03-27,Hyderabad,Fashion,Sneakers,4,1570.55,0.1,6282.2,5653.98,UPI
+ORD-00305,2025-03-28,Chennai,Beauty,Face Serum,2,679.41,0.0,1358.82,1358.82,UPI
+ORD-01197,2025-03-28,Mumbai,Beauty,Perfume,3,1935.07,0.1,5805.21,5224.69,Card
+ORD-01181,2025-03-28,Mumbai,Electronics,Power Bank,3,1048.37,0.1,3145.11,2830.6,Card
+ORD-00204,2025-03-28,Delhi,Electronics,Smart Watch,1,2838.6,0.05,2838.6,2696.67,UPI
+ORD-01086,2025-03-28,Mumbai,Fashion,Sneakers,2,2146.55,0.15,4293.1,3649.14,Card
+ORD-00632,2025-03-29,Chennai,Electronics,Bluetooth Speaker,4,2733.42,0.0,10933.68,10933.68,UPI
+ORD-00258,2025-03-29,Mumbai,Electronics,Wireless Earbuds,3,1708.35,0.2,5125.05,4100.04,Net Banking
+ORD-00475,2025-03-29,Bengaluru,Sports,Yoga Mat,1,1027.86,0.0,1027.86,1027.86,Net Banking
+ORD-00707,2025-03-29,Chennai,Beauty,Perfume,2,1760.92,0.0,3521.84,3521.84,UPI
+ORD-00398,2025-03-29,Mumbai,Electronics,Bluetooth Speaker,2,2546.42,0.1,5092.84,4583.56,UPI
+ORD-01124,2025-03-30,Hyderabad,Fashion,Casual Shirt,2,1026.7,0.2,2053.4,1642.72,Card
+ORD-00781,2025-03-30,Mumbai,Electronics,Smart Watch,3,2696.06,0.1,8088.18,7279.36,UPI
+ORD-00572,2025-03-30,Delhi,Home & Kitchen,Electric Kettle,2,1328.78,0.15,2657.56,2258.93,UPI
+ORD-01146,2025-03-31,Pune,Sports,Water Bottle,1,498.58,0.1,498.58,448.72,Net Banking
+ORD-00734,2025-03-31,Hyderabad,Home & Kitchen,Cookware Set,1,1728.67,0.1,1728.67,1555.8,UPI
+ORD-00077,2025-03-31,Bengaluru,Beauty,Perfume,2,1664.56,0.1,3329.12,2996.21,UPI
+ORD-00334,2025-03-31,Bengaluru,Electronics,Wireless Earbuds,4,1714.18,0.1,6856.72,6171.05,UPI
+ORD-00622,2025-03-31,Chennai,Fashion,Sneakers,4,2104.49,0.15,8417.96,7155.27,UPI
+ORD-00633,2025-03-31,Chennai,Sports,Running Shoes,2,2538.69,0.15,5077.38,4315.77,UPI
+ORD-00900,2025-04-01,Hyderabad,Beauty,Hair Dryer,1,1310.78,0.05,1310.78,1245.24,Cash
+ORD-00722,2025-04-01,Delhi,Beauty,Hair Dryer,2,1553.77,0.05,3107.54,2952.16,Card
+ORD-00760,2025-04-01,Hyderabad,Home & Kitchen,Electric Kettle,4,1401.04,0.1,5604.16,5043.74,Card
+ORD-00332,2025-04-02,Mumbai,Beauty,Hair Dryer,3,1179.22,0.2,3537.66,2830.13,Card
+ORD-00726,2025-04-02,Hyderabad,Fashion,Sneakers,2,2183.5,0.1,4367.0,3930.3,UPI
+ORD-00065,2025-04-02,Hyderabad,Sports,Running Shoes,3,3177.61,0.0,9532.83,9532.83,UPI
+ORD-00756,2025-04-02,Bengaluru,Home & Kitchen,Storage Organizer,4,789.51,0.2,3158.04,2526.43,Card
+ORD-00639,2025-04-02,Mumbai,Electronics,Power Bank,2,1390.84,0.0,2781.68,2781.68,Card
+ORD-01191,2025-04-03,Hyderabad,Home & Kitchen,Electric Kettle,2,1339.0,0.05,2678.0,2544.1,Card
+ORD-00189,2025-04-03,Mumbai,Electronics,Bluetooth Speaker,4,2019.19,0.15,8076.76,6865.25,Card
+ORD-00298,2025-04-03,Mumbai,Fashion,Backpack,4,1286.73,0.05,5146.92,4889.57,UPI
+ORD-00062,2025-04-03,Hyderabad,Beauty,Face Serum,2,757.73,0.2,1515.46,1212.37,Net Banking
+ORD-00348,2025-04-03,Delhi,Electronics,Smart Watch,1,3116.22,0.1,3116.22,2804.6,Card
+ORD-01177,2025-04-04,Hyderabad,Home & Kitchen,Storage Organizer,2,691.33,0.15,1382.66,1175.26,UPI
+ORD-00896,2025-04-04,Bengaluru,Electronics,Power Bank,2,908.03,0.0,1816.06,1816.06,Card
+ORD-00960,2025-04-04,Hyderabad,Home & Kitchen,Cookware Set,1,1427.13,0.15,1427.13,1213.06,Card
+ORD-00925,2025-04-04,Hyderabad,Fashion,Backpack,3,1572.86,0.15,4718.58,4010.79,UPI
+ORD-00422,2025-04-04,Hyderabad,Home & Kitchen,Electric Kettle,1,1114.34,0.0,1114.34,1114.34,Card
+ORD-00395,2025-04-04,Chennai,Fashion,Casual Shirt,2,1045.99,0.1,2091.98,1882.78,Net Banking
+ORD-00386,2025-04-05,Chennai,Home & Kitchen,Cookware Set,4,1749.56,0.0,6998.24,6998.24,UPI
+ORD-01039,2025-04-05,Hyderabad,Electronics,Smart Watch,1,2672.73,0.1,2672.73,2405.46,UPI
+ORD-00517,2025-04-05,Pune,Electronics,Wireless Earbuds,1,1759.02,0.0,1759.02,1759.02,UPI
+ORD-00904,2025-04-06,Hyderabad,Beauty,Skin Care Kit,3,1171.06,0.15,3513.18,2986.2,UPI
+ORD-01043,2025-04-06,Hyderabad,Fashion,Denim Jeans,3,1333.16,0.0,3999.48,3999.48,UPI
+ORD-01004,2025-04-06,Bengaluru,Beauty,Hair Dryer,1,1440.39,0.15,1440.39,1224.33,Net Banking
+ORD-00261,2025-04-06,Pune,Sports,Yoga Mat,2,781.72,0.2,1563.44,1250.75,Card
+ORD-00693,2025-04-06,Hyderabad,Fashion,Casual Shirt,1,786.34,0.0,786.34,786.34,Card
+ORD-00641,2025-04-06,Hyderabad,Electronics,Smart Watch,2,2665.3,0.0,5330.6,5330.6,Card
+ORD-00102,2025-04-06,Bengaluru,Home & Kitchen,Mixer Grinder,2,2588.57,0.1,5177.14,4659.43,Card
+ORD-00909,2025-04-07,Hyderabad,Home & Kitchen,Storage Organizer,4,875.08,0.1,3500.32,3150.29,UPI
+ORD-00487,2025-04-08,Delhi,Home & Kitchen,Storage Organizer,2,883.15,0.05,1766.3,1677.98,Net Banking
+ORD-00212,2025-04-08,Hyderabad,Fashion,Casual Shirt,3,923.99,0.1,2771.97,2494.77,Cash
+ORD-00169,2025-04-08,Mumbai,Home & Kitchen,Cookware Set,1,1973.23,0.0,1973.23,1973.23,Card
+ORD-00742,2025-04-10,Delhi,Home & Kitchen,Electric Kettle,1,1192.36,0.1,1192.36,1073.12,UPI
+ORD-00313,2025-04-10,Bengaluru,Beauty,Perfume,2,2229.31,0.0,4458.62,4458.62,Card
+ORD-00694,2025-04-10,Hyderabad,Home & Kitchen,Mixer Grinder,4,2668.37,0.2,10673.48,8538.78,UPI
+ORD-00015,2025-04-10,Bengaluru,Home & Kitchen,Cookware Set,4,1978.99,0.0,7915.96,7915.96,Card
+ORD-00808,2025-04-10,Delhi,Home & Kitchen,Cookware Set,4,1951.78,0.1,7807.12,7026.41,Cash
+ORD-00523,2025-04-10,Bengaluru,Fashion,Backpack,4,1825.75,0.0,7303.0,7303.0,UPI
+ORD-00679,2025-04-11,Delhi,Beauty,Perfume,4,1925.18,0.0,7700.72,7700.72,Cash
+ORD-00408,2025-04-11,Mumbai,Electronics,Wireless Earbuds,3,2233.67,0.15,6701.01,5695.86,UPI
+ORD-00980,2025-04-11,Hyderabad,Home & Kitchen,Electric Kettle,3,1012.98,0.05,3038.94,2886.99,Net Banking
+ORD-00883,2025-04-11,Mumbai,Electronics,Smart Watch,4,3071.95,0.0,12287.8,12287.8,Cash
+ORD-01121,2025-04-11,Hyderabad,Electronics,Bluetooth Speaker,3,2266.64,0.0,6799.92,6799.92,Card
+ORD-01152,2025-04-11,Hyderabad,Sports,Running Shoes,2,2892.29,0.2,5784.58,4627.66,Net Banking
+ORD-00803,2025-04-12,Bengaluru,Electronics,Power Bank,2,1262.64,0.15,2525.28,2146.49,UPI
+ORD-01145,2025-04-12,Chennai,Home & Kitchen,Storage Organizer,3,643.59,0.0,1930.77,1930.77,UPI
+ORD-00588,2025-04-12,Bengaluru,Fashion,Denim Jeans,3,1810.69,0.0,5432.07,5432.07,UPI
+ORD-00863,2025-04-12,Hyderabad,Fashion,Casual Shirt,1,760.86,0.0,760.86,760.86,Cash
+ORD-00151,2025-04-13,Hyderabad,Home & Kitchen,Cookware Set,3,2656.41,0.0,7969.23,7969.23,Cash
+ORD-00214,2025-04-13,Mumbai,Fashion,Backpack,4,1598.75,0.0,6395.0,6395.0,UPI
+ORD-00492,2025-04-14,Bengaluru,Home & Kitchen,Cookware Set,4,1773.14,0.05,7092.56,6737.93,Card
+ORD-00640,2025-04-14,Chennai,Fashion,Backpack,3,1491.19,0.05,4473.57,4249.89,UPI
+ORD-00651,2025-04-14,Hyderabad,Sports,Dumbbells,4,1572.1,0.2,6288.4,5030.72,Cash
+ORD-00921,2025-04-15,Hyderabad,Electronics,Wireless Earbuds,2,1469.52,0.15,2939.04,2498.18,Cash
+ORD-01017,2025-04-15,Delhi,Home & Kitchen,Cookware Set,3,1989.81,0.1,5969.43,5372.49,UPI
+ORD-00730,2025-04-15,Pune,Electronics,Wireless Earbuds,2,2016.47,0.1,4032.94,3629.65,UPI
+ORD-00538,2025-04-16,Bengaluru,Beauty,Face Serum,4,613.85,0.15,2455.4,2087.09,Card
+ORD-00597,2025-04-16,Mumbai,Fashion,Casual Shirt,1,726.68,0.05,726.68,690.35,Cash
+ORD-00463,2025-04-17,Pune,Electronics,Wireless Earbuds,1,1794.87,0.05,1794.87,1705.13,UPI
+ORD-01173,2025-04-17,Mumbai,Electronics,Bluetooth Speaker,3,2032.56,0.1,6097.68,5487.91,UPI
+ORD-00423,2025-04-17,Chennai,Electronics,Smart Watch,2,3109.79,0.15,6219.58,5286.64,UPI
+ORD-00450,2025-04-17,Hyderabad,Beauty,Skin Care Kit,4,1347.67,0.15,5390.68,4582.08,UPI
+ORD-00589,2025-04-17,Delhi,Electronics,Wireless Earbuds,3,1959.92,0.15,5879.76,4997.8,UPI
+ORD-00220,2025-04-18,Mumbai,Beauty,Hair Dryer,3,1731.7,0.2,5195.1,4156.08,Card
+ORD-01016,2025-04-19,Chennai,Electronics,Wireless Earbuds,4,1611.33,0.15,6445.32,5478.52,Net Banking
+ORD-00528,2025-04-19,Mumbai,Home & Kitchen,Electric Kettle,2,1086.42,0.05,2172.84,2064.2,Net Banking
+ORD-00916,2025-04-19,Hyderabad,Fashion,Denim Jeans,2,2102.41,0.0,4204.82,4204.82,Net Banking
+ORD-00619,2025-04-19,Hyderabad,Electronics,Bluetooth Speaker,1,2195.28,0.0,2195.28,2195.28,UPI
+ORD-00175,2025-04-19,Pune,Electronics,Smart Watch,2,3067.69,0.0,6135.38,6135.38,UPI
+ORD-00530,2025-04-20,Hyderabad,Electronics,Power Bank,1,1012.54,0.15,1012.54,860.66,Card
+ORD-00157,2025-04-21,Hyderabad,Beauty,Perfume,1,1881.86,0.1,1881.86,1693.67,UPI
+ORD-00056,2025-04-22,Mumbai,Home & Kitchen,Cookware Set,4,1871.3,0.0,7485.2,7485.2,UPI
+ORD-00930,2025-04-22,Delhi,Fashion,Casual Shirt,3,738.81,0.05,2216.43,2105.61,UPI
+ORD-00145,2025-04-22,Hyderabad,Sports,Water Bottle,4,440.87,0.15,1763.48,1498.96,UPI
+ORD-00168,2025-04-22,Hyderabad,Beauty,Face Serum,2,629.77,0.2,1259.54,1007.63,Cash
+ORD-00406,2025-04-22,Bengaluru,Home & Kitchen,Cookware Set,2,1862.14,0.0,3724.28,3724.28,Net Banking
+ORD-00009,2025-04-22,Hyderabad,Sports,Dumbbells,2,1644.96,0.1,3289.92,2960.93,UPI
+ORD-00170,2025-04-22,Delhi,Beauty,Skin Care Kit,2,1278.08,0.15,2556.16,2172.74,Card
+ORD-00966,2025-04-23,Hyderabad,Electronics,Power Bank,2,1197.12,0.15,2394.24,2035.1,UPI
+ORD-00308,2025-04-23,Bengaluru,Fashion,Backpack,1,1496.96,0.1,1496.96,1347.26,Cash
+ORD-01106,2025-04-23,Delhi,Electronics,Smart Watch,2,2958.69,0.0,5917.38,5917.38,UPI
+ORD-00974,2025-04-23,Bengaluru,Electronics,Power Bank,3,836.41,0.1,2509.23,2258.31,Card
+ORD-00459,2025-04-23,Chennai,Sports,Water Bottle,4,459.3,0.0,1837.2,1837.2,UPI
+ORD-01096,2025-04-23,Bengaluru,Fashion,Casual Shirt,2,1086.9,0.1,2173.8,1956.42,Net Banking
+ORD-00178,2025-04-25,Chennai,Home & Kitchen,Cookware Set,3,1641.12,0.2,4923.36,3938.69,UPI
+ORD-00006,2025-04-25,Mumbai,Fashion,Sneakers,1,2076.83,0.15,2076.83,1765.31,Cash
+ORD-01094,2025-04-25,Pune,Fashion,Sneakers,1,2458.62,0.0,2458.62,2458.62,Net Banking
+ORD-00495,2025-04-26,Hyderabad,Beauty,Face Serum,4,643.36,0.0,2573.44,2573.44,Cash
+ORD-00502,2025-04-26,Pune,Fashion,Denim Jeans,1,1628.19,0.1,1628.19,1465.37,Card
+ORD-00706,2025-04-26,Pune,Electronics,Power Bank,1,1007.05,0.1,1007.05,906.35,Card
+ORD-00875,2025-04-28,Delhi,Home & Kitchen,Storage Organizer,4,886.98,0.0,3547.92,3547.92,UPI
+ORD-00323,2025-04-28,Mumbai,Sports,Running Shoes,4,1686.33,0.1,6745.32,6070.79,UPI
+ORD-00598,2025-04-28,Chennai,Home & Kitchen,Cookware Set,2,1502.53,0.05,3005.06,2854.81,Cash
+ORD-00034,2025-04-28,Hyderabad,Fashion,Denim Jeans,3,1975.72,0.05,5927.16,5630.8,UPI
+ORD-00014,2025-04-28,Mumbai,Electronics,Bluetooth Speaker,4,2376.88,0.0,9507.52,9507.52,UPI
+ORD-00549,2025-04-29,Pune,Fashion,Sneakers,3,2159.24,0.0,6477.72,6477.72,Net Banking
+ORD-00869,2025-04-29,Pune,Electronics,Wireless Earbuds,2,1725.08,0.05,3450.16,3277.65,Card
+ORD-00150,2025-05-01,Pune,Sports,Dumbbells,4,1622.74,0.05,6490.96,6166.41,UPI
+ORD-00264,2025-05-01,Bengaluru,Fashion,Backpack,3,1578.36,0.05,4735.08,4498.33,Card
+ORD-00483,2025-05-01,Delhi,Fashion,Sneakers,4,2590.11,0.15,10360.44,8806.37,Cash
+ORD-01081,2025-05-01,Chennai,Beauty,Face Serum,2,659.25,0.1,1318.5,1186.65,UPI
+ORD-00377,2025-05-02,Hyderabad,Electronics,Wireless Earbuds,2,1761.11,0.2,3522.22,2817.78,UPI
+ORD-01054,2025-05-02,Bengaluru,Electronics,Smart Watch,3,3345.59,0.1,10036.77,9033.09,Card
+ORD-00411,2025-05-03,Bengaluru,Electronics,Bluetooth Speaker,1,2974.49,0.1,2974.49,2677.04,UPI
+ORD-00522,2025-05-03,Chennai,Electronics,Power Bank,3,1095.37,0.1,3286.11,2957.5,UPI
+ORD-00142,2025-05-03,Hyderabad,Electronics,Smart Watch,1,3114.11,0.0,3114.11,3114.11,UPI
+ORD-00107,2025-05-03,Mumbai,Electronics,Wireless Earbuds,1,1581.62,0.05,1581.62,1502.54,UPI
+ORD-00240,2025-05-03,Chennai,Fashion,Denim Jeans,4,1712.11,0.0,6848.44,6848.44,UPI
+ORD-00937,2025-05-03,Chennai,Electronics,Smart Watch,1,3250.34,0.0,3250.34,3250.34,UPI
+ORD-00828,2025-05-03,Mumbai,Electronics,Smart Watch,4,3171.57,0.0,12686.28,12686.28,UPI
+ORD-00923,2025-05-03,Mumbai,Electronics,Bluetooth Speaker,4,2392.75,0.0,9571.0,9571.0,Card
+ORD-01024,2025-05-05,Delhi,Beauty,Perfume,1,1740.59,0.0,1740.59,1740.59,UPI
+ORD-00069,2025-05-05,Mumbai,Electronics,Bluetooth Speaker,3,2545.37,0.05,7636.11,7254.3,UPI
+ORD-00666,2025-05-06,Bengaluru,Fashion,Backpack,3,1713.32,0.2,5139.96,4111.97,UPI
+ORD-00604,2025-05-06,Mumbai,Fashion,Denim Jeans,1,2186.48,0.2,2186.48,1749.18,Card
+ORD-00926,2025-05-06,Bengaluru,Electronics,Bluetooth Speaker,2,2384.6,0.0,4769.2,4769.2,UPI
+ORD-00390,2025-05-06,Pune,Home & Kitchen,Cookware Set,4,1871.49,0.0,7485.96,7485.96,UPI
+ORD-01001,2025-05-06,Chennai,Home & Kitchen,Cookware Set,1,1980.69,0.15,1980.69,1683.59,UPI
+ORD-01147,2025-05-06,Hyderabad,Fashion,Backpack,2,1574.71,0.0,3149.42,3149.42,Cash
+ORD-00113,2025-05-06,Hyderabad,Beauty,Face Serum,4,779.01,0.15,3116.04,2648.63,Net Banking
+ORD-00432,2025-05-07,Hyderabad,Home & Kitchen,Cookware Set,4,1756.91,0.0,7027.64,7027.64,Net Banking
+ORD-00975,2025-05-07,Mumbai,Home & Kitchen,Cookware Set,1,2199.14,0.1,2199.14,1979.23,Net Banking
+ORD-01159,2025-05-07,Bengaluru,Sports,Running Shoes,3,3813.33,0.0,11439.99,11439.99,UPI
+ORD-00043,2025-05-08,Bengaluru,Home & Kitchen,Electric Kettle,4,1281.89,0.1,5127.56,4614.8,Cash
+ORD-00324,2025-05-09,Chennai,Home & Kitchen,Mixer Grinder,3,2583.93,0.1,7751.79,6976.61,Card
+ORD-00915,2025-05-09,Delhi,Fashion,Denim Jeans,4,1746.08,0.1,6984.32,6285.89,Cash
+ORD-01113,2025-05-09,Bengaluru,Home & Kitchen,Cookware Set,4,2016.25,0.05,8065.0,7661.75,Net Banking
+ORD-00541,2025-05-09,Mumbai,Electronics,Power Bank,1,903.82,0.0,903.82,903.82,UPI
+ORD-00097,2025-05-09,Hyderabad,Fashion,Sneakers,4,2757.84,0.05,11031.36,10479.79,Card
+ORD-00236,2025-05-09,Pune,Sports,Dumbbells,2,1763.44,0.1,3526.88,3174.19,UPI
+ORD-00943,2025-05-11,Bengaluru,Fashion,Sneakers,3,2620.55,0.15,7861.65,6682.4,UPI
+ORD-00596,2025-05-11,Chennai,Sports,Yoga Mat,3,749.95,0.0,2249.85,2249.85,Card
+ORD-00660,2025-05-11,Delhi,Sports,Yoga Mat,2,859.98,0.1,1719.96,1547.96,Cash
+ORD-00691,2025-05-12,Bengaluru,Fashion,Denim Jeans,1,1480.85,0.0,1480.85,1480.85,UPI
+ORD-00249,2025-05-12,Pune,Fashion,Backpack,1,1642.89,0.05,1642.89,1560.75,Net Banking
+ORD-00914,2025-05-14,Mumbai,Home & Kitchen,Cookware Set,1,1611.93,0.1,1611.93,1450.74,UPI
+ORD-00288,2025-05-14,Chennai,Electronics,Bluetooth Speaker,4,2330.23,0.2,9320.92,7456.74,Net Banking
+ORD-01111,2025-05-15,Delhi,Electronics,Bluetooth Speaker,1,2207.88,0.0,2207.88,2207.88,UPI
+ORD-00642,2025-05-15,Mumbai,Home & Kitchen,Electric Kettle,3,1605.11,0.15,4815.33,4093.03,UPI
+ORD-01195,2025-05-15,Chennai,Home & Kitchen,Mixer Grinder,3,2728.34,0.0,8185.02,8185.02,UPI
+ORD-01057,2025-05-15,Hyderabad,Home & Kitchen,Storage Organizer,4,643.85,0.1,2575.4,2317.86,Card
+ORD-00775,2025-05-15,Hyderabad,Home & Kitchen,Mixer Grinder,1,2154.55,0.0,2154.55,2154.55,UPI
+ORD-00769,2025-05-15,Mumbai,Home & Kitchen,Mixer Grinder,1,2440.84,0.1,2440.84,2196.76,UPI
+ORD-00279,2025-05-17,Delhi,Home & Kitchen,Electric Kettle,4,1077.19,0.2,4308.76,3447.01,Card
+ORD-01040,2025-05-18,Mumbai,Electronics,Smart Watch,3,3218.12,0.1,9654.36,8688.92,Cash
+ORD-00129,2025-05-18,Delhi,Home & Kitchen,Mixer Grinder,4,2065.33,0.1,8261.32,7435.19,UPI
+ORD-00758,2025-05-18,Bengaluru,Fashion,Casual Shirt,4,1108.53,0.05,4434.12,4212.41,Card
+ORD-01182,2025-05-18,Pune,Fashion,Denim Jeans,2,1796.34,0.2,3592.68,2874.14,Cash
+ORD-00471,2025-05-19,Delhi,Home & Kitchen,Storage Organizer,4,1004.52,0.15,4018.08,3415.37,Card
+ORD-00553,2025-05-19,Hyderabad,Sports,Dumbbells,2,1844.98,0.1,3689.96,3320.96,Cash
+ORD-00868,2025-05-19,Bengaluru,Electronics,Bluetooth Speaker,2,2590.16,0.05,5180.32,4921.3,UPI
+ORD-00878,2025-05-20,Hyderabad,Sports,Dumbbells,3,1590.98,0.1,4772.94,4295.65,UPI
+ORD-00963,2025-05-20,Bengaluru,Sports,Yoga Mat,1,740.17,0.1,740.17,666.15,Card
+ORD-00607,2025-05-20,Chennai,Home & Kitchen,Storage Organizer,3,693.24,0.05,2079.72,1975.73,UPI
+ORD-00737,2025-05-21,Mumbai,Home & Kitchen,Cookware Set,4,2231.51,0.15,8926.04,7587.13,UPI
+ORD-00123,2025-05-22,Bengaluru,Electronics,Bluetooth Speaker,2,2496.63,0.0,4993.26,4993.26,UPI
+ORD-00927,2025-05-22,Chennai,Beauty,Perfume,2,1749.19,0.0,3498.38,3498.38,UPI
+ORD-01178,2025-05-22,Hyderabad,Fashion,Sneakers,3,1964.18,0.1,5892.54,5303.29,Cash
+ORD-00403,2025-05-22,Bengaluru,Beauty,Skin Care Kit,2,1058.25,0.1,2116.5,1904.85,UPI
+ORD-00402,2025-05-22,Mumbai,Electronics,Smart Watch,1,2912.37,0.0,2912.37,2912.37,Card
+ORD-00281,2025-05-22,Bengaluru,Electronics,Bluetooth Speaker,3,1855.89,0.1,5567.67,5010.9,UPI
+ORD-00988,2025-05-23,Bengaluru,Sports,Dumbbells,1,1953.62,0.15,1953.62,1660.58,Cash
+ORD-00531,2025-05-23,Bengaluru,Fashion,Backpack,2,1606.04,0.05,3212.08,3051.48,UPI
+ORD-01198,2025-05-23,Bengaluru,Beauty,Face Serum,1,546.42,0.1,546.42,491.78,UPI
+ORD-00274,2025-05-25,Bengaluru,Beauty,Face Serum,2,627.82,0.2,1255.64,1004.51,Net Banking
+ORD-01142,2025-05-25,Pune,Beauty,Perfume,2,2009.26,0.15,4018.52,3415.74,UPI
+ORD-00894,2025-05-26,Mumbai,Electronics,Bluetooth Speaker,1,2803.28,0.2,2803.28,2242.62,Net Banking
+ORD-01163,2025-05-26,Pune,Beauty,Hair Dryer,1,1113.01,0.1,1113.01,1001.71,UPI
+ORD-00801,2025-05-26,Chennai,Fashion,Casual Shirt,3,1106.76,0.1,3320.28,2988.25,Card
+ORD-00728,2025-05-26,Bengaluru,Electronics,Smart Watch,2,3476.17,0.0,6952.34,6952.34,Cash
+ORD-00351,2025-05-28,Hyderabad,Sports,Yoga Mat,2,885.34,0.0,1770.68,1770.68,UPI
+ORD-00185,2025-05-28,Mumbai,Home & Kitchen,Cookware Set,3,1791.24,0.0,5373.72,5373.72,Cash
+ORD-00247,2025-05-28,Chennai,Fashion,Sneakers,1,1952.95,0.0,1952.95,1952.95,UPI
+ORD-00867,2025-05-28,Hyderabad,Home & Kitchen,Storage Organizer,2,693.15,0.1,1386.3,1247.67,UPI
+ORD-00143,2025-05-28,Bengaluru,Beauty,Perfume,3,1656.76,0.0,4970.28,4970.28,UPI
+ORD-00514,2025-05-29,Hyderabad,Electronics,Power Bank,4,891.76,0.15,3567.04,3031.98,Net Banking
+ORD-00306,2025-05-29,Hyderabad,Home & Kitchen,Cookware Set,1,1913.7,0.0,1913.7,1913.7,Net Banking
+ORD-00933,2025-05-29,Bengaluru,Electronics,Bluetooth Speaker,3,2422.16,0.1,7266.48,6539.83,UPI
+ORD-00333,2025-05-30,Pune,Electronics,Bluetooth Speaker,2,2750.66,0.15,5501.32,4676.12,Cash
+ORD-00137,2025-05-30,Mumbai,Beauty,Face Serum,1,647.98,0.0,647.98,647.98,Cash
+ORD-00727,2025-05-30,Pune,Fashion,Denim Jeans,2,1413.8,0.15,2827.6,2403.46,Card
+ORD-00939,2025-05-31,Hyderabad,Electronics,Wireless Earbuds,2,1682.79,0.0,3365.58,3365.58,UPI
+ORD-00891,2025-05-31,Mumbai,Home & Kitchen,Storage Organizer,4,705.99,0.0,2823.96,2823.96,Cash
+ORD-00627,2025-05-31,Bengaluru,Fashion,Backpack,2,1757.56,0.1,3515.12,3163.61,Cash
+ORD-00840,2025-05-31,Chennai,Electronics,Power Bank,2,1056.61,0.05,2113.22,2007.56,Card
+ORD-00344,2025-06-01,Chennai,Home & Kitchen,Mixer Grinder,1,2366.01,0.0,2366.01,2366.01,UPI
+ORD-00418,2025-06-01,Bengaluru,Home & Kitchen,Storage Organizer,1,722.23,0.0,722.23,722.23,Card
+ORD-00835,2025-06-02,Bengaluru,Home & Kitchen,Cookware Set,4,2178.52,0.05,8714.08,8278.38,UPI
+ORD-00663,2025-06-03,Hyderabad,Sports,Yoga Mat,4,722.52,0.05,2890.08,2745.58,Cash
+ORD-00696,2025-06-03,Mumbai,Beauty,Face Serum,3,575.99,0.0,1727.97,1727.97,UPI
+ORD-00122,2025-06-03,Mumbai,Electronics,Power Bank,1,1000.15,0.1,1000.15,900.13,Cash
+ORD-01190,2025-06-03,Mumbai,Electronics,Wireless Earbuds,2,2001.25,0.05,4002.5,3802.38,Cash
+ORD-01188,2025-06-03,Mumbai,Sports,Dumbbells,3,1414.63,0.1,4243.89,3819.5,Card
+ORD-00030,2025-06-04,Delhi,Sports,Yoga Mat,2,813.92,0.0,1627.84,1627.84,Card
+ORD-00177,2025-06-04,Delhi,Fashion,Denim Jeans,2,2005.83,0.0,4011.66,4011.66,UPI
+ORD-01167,2025-06-04,Delhi,Home & Kitchen,Electric Kettle,3,949.06,0.0,2847.18,2847.18,Card
+ORD-00994,2025-06-05,Pune,Sports,Running Shoes,2,1857.08,0.05,3714.16,3528.45,UPI
+ORD-01189,2025-06-05,Chennai,Fashion,Backpack,3,1369.91,0.2,4109.73,3287.78,Card
+ORD-00584,2025-06-05,Bengaluru,Beauty,Perfume,1,2107.07,0.0,2107.07,2107.07,Net Banking
+ORD-00243,2025-06-05,Pune,Home & Kitchen,Storage Organizer,4,583.4,0.15,2333.6,1983.56,Card
+ORD-00816,2025-06-06,Pune,Home & Kitchen,Cookware Set,1,1696.53,0.0,1696.53,1696.53,Card
+ORD-01138,2025-06-06,Bengaluru,Fashion,Casual Shirt,2,968.93,0.15,1937.86,1647.18,UPI
+ORD-00115,2025-06-06,Pune,Electronics,Power Bank,4,1034.42,0.1,4137.68,3723.91,Net Banking
+ORD-00326,2025-06-06,Delhi,Beauty,Hair Dryer,1,1550.5,0.1,1550.5,1395.45,Card
+ORD-00885,2025-06-07,Mumbai,Beauty,Hair Dryer,4,1405.64,0.0,5622.56,5622.56,Cash
+ORD-00372,2025-06-07,Hyderabad,Fashion,Casual Shirt,2,830.44,0.1,1660.88,1494.79,Card
+ORD-01129,2025-06-07,Bengaluru,Electronics,Power Bank,4,1167.09,0.2,4668.36,3734.69,UPI
+ORD-00695,2025-06-08,Hyderabad,Electronics,Bluetooth Speaker,3,2437.31,0.1,7311.93,6580.74,Net Banking
+ORD-00319,2025-06-08,Hyderabad,Home & Kitchen,Electric Kettle,1,1100.24,0.15,1100.24,935.2,UPI
+ORD-00715,2025-06-08,Chennai,Beauty,Skin Care Kit,2,1038.86,0.0,2077.72,2077.72,Card
+ORD-00225,2025-06-08,Delhi,Beauty,Perfume,2,1457.08,0.15,2914.16,2477.04,UPI
+ORD-00841,2025-06-08,Bengaluru,Beauty,Hair Dryer,3,1423.84,0.0,4271.52,4271.52,UPI
+ORD-00949,2025-06-08,Pune,Fashion,Casual Shirt,1,930.2,0.2,930.2,744.16,UPI
+ORD-00610,2025-06-08,Pune,Sports,Running Shoes,3,2767.48,0.0,8302.44,8302.44,UPI
+ORD-00360,2025-06-08,Pune,Fashion,Casual Shirt,4,884.8,0.2,3539.2,2831.36,UPI
+ORD-00753,2025-06-09,Mumbai,Electronics,Power Bank,4,1182.98,0.1,4731.92,4258.73,Card
+ORD-01055,2025-06-09,Pune,Sports,Running Shoes,3,3076.64,0.1,9229.92,8306.93,Cash
+ORD-00438,2025-06-09,Bengaluru,Fashion,Backpack,4,1632.0,0.1,6528.0,5875.2,Card
+ORD-00341,2025-06-09,Hyderabad,Home & Kitchen,Storage Organizer,3,782.94,0.1,2348.82,2113.94,UPI
+ORD-00084,2025-06-09,Bengaluru,Electronics,Wireless Earbuds,4,2030.45,0.0,8121.8,8121.8,Net Banking
+ORD-00096,2025-06-10,Hyderabad,Fashion,Casual Shirt,4,939.6,0.15,3758.4,3194.64,UPI
+ORD-00626,2025-06-10,Chennai,Home & Kitchen,Storage Organizer,2,796.15,0.05,1592.3,1512.68,Cash
+ORD-00272,2025-06-10,Mumbai,Home & Kitchen,Mixer Grinder,1,2696.11,0.0,2696.11,2696.11,Card
+ORD-00131,2025-06-10,Bengaluru,Fashion,Casual Shirt,1,864.13,0.1,864.13,777.72,Cash
+ORD-00501,2025-06-10,Mumbai,Sports,Water Bottle,4,522.31,0.0,2089.24,2089.24,Card
+ORD-01098,2025-06-10,Hyderabad,Home & Kitchen,Storage Organizer,2,734.97,0.05,1469.94,1396.44,UPI
+ORD-00708,2025-06-10,Hyderabad,Home & Kitchen,Cookware Set,3,2029.15,0.05,6087.45,5783.08,Card
+ORD-00565,2025-06-11,Mumbai,Beauty,Perfume,1,1753.28,0.1,1753.28,1577.95,UPI
+ORD-00819,2025-06-12,Hyderabad,Fashion,Backpack,4,1435.28,0.05,5741.12,5454.06,UPI
+ORD-00394,2025-06-12,Mumbai,Electronics,Wireless Earbuds,1,1796.46,0.15,1796.46,1526.99,UPI
+ORD-00064,2025-06-12,Bengaluru,Sports,Dumbbells,2,1459.91,0.0,2919.82,2919.82,UPI
+ORD-00092,2025-06-13,Chennai,Home & Kitchen,Storage Organizer,1,944.05,0.0,944.05,944.05,Card
+ORD-00825,2025-06-13,Delhi,Electronics,Bluetooth Speaker,1,2178.35,0.1,2178.35,1960.51,UPI
+ORD-00235,2025-06-13,Chennai,Fashion,Backpack,4,1388.18,0.0,5552.72,5552.72,Net Banking
+ORD-00147,2025-06-14,Chennai,Beauty,Hair Dryer,1,1019.44,0.1,1019.44,917.5,UPI
+ORD-00104,2025-06-14,Bengaluru,Electronics,Power Bank,1,1067.78,0.0,1067.78,1067.78,Cash
+ORD-00603,2025-06-14,Hyderabad,Beauty,Face Serum,1,703.76,0.0,703.76,703.76,UPI
+ORD-00719,2025-06-15,Hyderabad,Fashion,Sneakers,1,2408.5,0.05,2408.5,2288.07,Cash
+ORD-00226,2025-06-15,Hyderabad,Fashion,Sneakers,1,2872.92,0.0,2872.92,2872.92,UPI
+ORD-00366,2025-06-15,Pune,Fashion,Denim Jeans,3,1528.22,0.0,4584.66,4584.66,UPI
+ORD-00462,2025-06-16,Chennai,Sports,Water Bottle,4,469.19,0.1,1876.76,1689.08,UPI
+ORD-00088,2025-06-16,Delhi,Sports,Yoga Mat,4,789.6,0.15,3158.4,2684.64,UPI
+ORD-00784,2025-06-16,Bengaluru,Electronics,Wireless Earbuds,3,1444.98,0.15,4334.94,3684.7,Card
+ORD-00793,2025-06-16,Mumbai,Electronics,Power Bank,3,1226.27,0.1,3678.81,3310.93,UPI
+ORD-00419,2025-06-17,Hyderabad,Fashion,Casual Shirt,4,941.18,0.05,3764.72,3576.48,UPI
+ORD-00762,2025-06-17,Bengaluru,Sports,Water Bottle,2,507.92,0.0,1015.84,1015.84,UPI
+ORD-00504,2025-06-17,Mumbai,Beauty,Perfume,3,1891.92,0.05,5675.76,5391.97,Card
+ORD-00059,2025-06-17,Chennai,Sports,Yoga Mat,4,662.83,0.0,2651.32,2651.32,UPI
+ORD-01164,2025-06-17,Mumbai,Home & Kitchen,Mixer Grinder,2,2597.99,0.2,5195.98,4156.78,UPI
+ORD-00179,2025-06-17,Hyderabad,Beauty,Face Serum,2,754.4,0.1,1508.8,1357.92,UPI
+ORD-00302,2025-06-18,Pune,Electronics,Smart Watch,3,3401.43,0.05,10204.29,9694.08,UPI
+ORD-00363,2025-06-18,Bengaluru,Sports,Yoga Mat,3,729.91,0.1,2189.73,1970.76,UPI
+ORD-00250,2025-06-19,Hyderabad,Home & Kitchen,Electric Kettle,3,841.6,0.1,2524.8,2272.32,Card
+ORD-00295,2025-06-19,Mumbai,Beauty,Hair Dryer,4,1279.83,0.0,5119.32,5119.32,Card
+ORD-00554,2025-06-19,Pune,Fashion,Sneakers,1,2977.75,0.1,2977.75,2679.97,UPI
+ORD-01136,2025-06-19,Hyderabad,Electronics,Smart Watch,4,3561.33,0.05,14245.32,13533.05,UPI
+ORD-00986,2025-06-19,Pune,Sports,Water Bottle,2,513.56,0.1,1027.12,924.41,UPI
+ORD-00815,2025-06-20,Pune,Home & Kitchen,Mixer Grinder,1,2755.39,0.1,2755.39,2479.85,Cash
+ORD-01005,2025-06-20,Pune,Electronics,Smart Watch,4,3558.58,0.1,14234.32,12810.89,UPI
+ORD-00562,2025-06-20,Hyderabad,Fashion,Denim Jeans,3,1533.61,0.05,4600.83,4370.79,UPI
+ORD-00940,2025-06-20,Mumbai,Fashion,Casual Shirt,3,975.36,0.0,2926.08,2926.08,Card
+ORD-00669,2025-06-20,Bengaluru,Electronics,Wireless Earbuds,2,1991.99,0.1,3983.98,3585.58,UPI
+ORD-00794,2025-06-21,Mumbai,Fashion,Casual Shirt,3,872.8,0.0,2618.4,2618.4,UPI
+ORD-00948,2025-06-21,Mumbai,Electronics,Wireless Earbuds,1,1812.71,0.0,1812.71,1812.71,Card
+ORD-01046,2025-06-22,Hyderabad,Electronics,Bluetooth Speaker,3,2740.63,0.2,8221.89,6577.51,UPI
+ORD-00928,2025-06-24,Hyderabad,Fashion,Denim Jeans,4,1556.5,0.0,6226.0,6226.0,UPI
+ORD-00846,2025-06-24,Hyderabad,Electronics,Wireless Earbuds,4,1889.02,0.05,7556.08,7178.28,Card
+ORD-01187,2025-06-24,Delhi,Electronics,Bluetooth Speaker,3,2121.27,0.1,6363.81,5727.43,Net Banking
+ORD-00486,2025-06-25,Bengaluru,Home & Kitchen,Storage Organizer,2,816.62,0.0,1633.24,1633.24,Cash
+ORD-00832,2025-06-25,Hyderabad,Electronics,Wireless Earbuds,2,1806.66,0.2,3613.32,2890.66,UPI
+ORD-01002,2025-06-25,Bengaluru,Sports,Running Shoes,3,2742.11,0.1,8226.33,7403.7,UPI
+ORD-00578,2025-06-25,Bengaluru,Electronics,Wireless Earbuds,2,1277.85,0.15,2555.7,2172.34,Card
+ORD-00701,2025-06-25,Pune,Sports,Dumbbells,3,1335.82,0.15,4007.46,3406.34,Card
+ORD-00280,2025-06-26,Mumbai,Fashion,Casual Shirt,2,795.58,0.1,1591.16,1432.04,Card
+ORD-00124,2025-06-26,Mumbai,Home & Kitchen,Cookware Set,2,1832.0,0.05,3664.0,3480.8,Card
+ORD-01103,2025-06-26,Mumbai,Sports,Dumbbells,4,1678.37,0.05,6713.48,6377.81,UPI
+ORD-00671,2025-06-26,Hyderabad,Electronics,Smart Watch,2,3776.04,0.05,7552.08,7174.48,Net Banking
+ORD-00995,2025-06-26,Pune,Fashion,Sneakers,2,2496.71,0.2,4993.42,3994.74,UPI
+ORD-00120,2025-06-27,Delhi,Electronics,Smart Watch,1,3003.0,0.0,3003.0,3003.0,UPI
+ORD-00195,2025-06-27,Hyderabad,Fashion,Backpack,2,1521.23,0.05,3042.46,2890.34,UPI
+ORD-00052,2025-06-27,Pune,Home & Kitchen,Electric Kettle,1,1114.59,0.15,1114.59,947.4,Net Banking
+ORD-00599,2025-06-27,Hyderabad,Sports,Dumbbells,2,1765.89,0.1,3531.78,3178.6,UPI
+ORD-00205,2025-06-28,Chennai,Sports,Yoga Mat,1,734.64,0.05,734.64,697.91,UPI
+ORD-01174,2025-06-28,Pune,Electronics,Bluetooth Speaker,2,2247.52,0.05,4495.04,4270.29,UPI
+ORD-00644,2025-06-28,Hyderabad,Sports,Yoga Mat,2,812.92,0.1,1625.84,1463.26,UPI
+ORD-01110,2025-06-29,Chennai,Home & Kitchen,Cookware Set,3,2110.7,0.0,6332.1,6332.1,UPI
+ORD-00073,2025-06-29,Hyderabad,Electronics,Bluetooth Speaker,2,1930.2,0.05,3860.4,3667.38,Net Banking
+ORD-00851,2025-06-30,Pune,Fashion,Backpack,2,1557.03,0.1,3114.06,2802.65,Card
+ORD-01012,2025-06-30,Chennai,Electronics,Power Bank,3,965.44,0.0,2896.32,2896.32,UPI
+ORD-00165,2025-06-30,Bengaluru,Beauty,Hair Dryer,2,1504.07,0.05,3008.14,2857.73,Cash
+ORD-00527,2025-06-30,Pune,Fashion,Sneakers,1,2369.12,0.1,2369.12,2132.21,Card
+ORD-00788,2025-07-01,Pune,Home & Kitchen,Mixer Grinder,2,2236.68,0.0,4473.36,4473.36,UPI
+ORD-00806,2025-07-01,Chennai,Home & Kitchen,Storage Organizer,1,987.09,0.1,987.09,888.38,Card
+ORD-00472,2025-07-01,Mumbai,Beauty,Perfume,4,1993.45,0.0,7973.8,7973.8,Card
+ORD-00460,2025-07-01,Bengaluru,Home & Kitchen,Cookware Set,1,1796.56,0.15,1796.56,1527.08,Card
+ORD-00770,2025-07-01,Hyderabad,Fashion,Backpack,2,1477.77,0.1,2955.54,2659.99,UPI
+ORD-00174,2025-07-02,Mumbai,Home & Kitchen,Cookware Set,4,2179.34,0.1,8717.36,7845.62,UPI
+ORD-00677,2025-07-02,Hyderabad,Sports,Yoga Mat,3,938.67,0.1,2816.01,2534.41,Net Banking
+ORD-00623,2025-07-02,Chennai,Home & Kitchen,Storage Organizer,3,726.23,0.15,2178.69,1851.89,Cash
+ORD-00256,2025-07-02,Hyderabad,Electronics,Bluetooth Speaker,2,2461.71,0.15,4923.42,4184.91,Cash
+ORD-00857,2025-07-02,Bengaluru,Fashion,Casual Shirt,2,945.1,0.2,1890.2,1512.16,Net Banking
+ORD-01079,2025-07-03,Hyderabad,Fashion,Denim Jeans,1,1974.7,0.1,1974.7,1777.23,UPI
+ORD-00790,2025-07-03,Chennai,Electronics,Power Bank,2,942.77,0.1,1885.54,1696.99,Card
+ORD-01175,2025-07-03,Chennai,Electronics,Power Bank,2,677.2,0.2,1354.4,1083.52,UPI
+ORD-00898,2025-07-04,Hyderabad,Sports,Running Shoes,4,3116.56,0.15,12466.24,10596.3,UPI
+ORD-00982,2025-07-04,Hyderabad,Home & Kitchen,Mixer Grinder,4,2502.41,0.05,10009.64,9509.16,UPI
+ORD-00318,2025-07-04,Mumbai,Fashion,Backpack,2,1448.96,0.2,2897.92,2318.34,Card
+ORD-00713,2025-07-04,Hyderabad,Sports,Running Shoes,2,2733.62,0.0,5467.24,5467.24,UPI
+ORD-00954,2025-07-04,Hyderabad,Home & Kitchen,Storage Organizer,4,790.1,0.0,3160.4,3160.4,UPI
+ORD-00396,2025-07-04,Delhi,Beauty,Hair Dryer,3,1502.16,0.0,4506.48,4506.48,Card
+ORD-00266,2025-07-05,Delhi,Electronics,Power Bank,1,995.95,0.1,995.95,896.36,Card
+ORD-00188,2025-07-05,Bengaluru,Sports,Running Shoes,1,2730.83,0.05,2730.83,2594.29,Card
+ORD-01010,2025-07-05,Mumbai,Electronics,Bluetooth Speaker,1,3134.57,0.0,3134.57,3134.57,Cash
+ORD-00048,2025-07-05,Hyderabad,Electronics,Power Bank,1,967.31,0.1,967.31,870.58,UPI
+ORD-00136,2025-07-06,Hyderabad,Electronics,Smart Watch,4,3498.32,0.2,13993.28,11194.62,Card
+ORD-00908,2025-07-06,Mumbai,Home & Kitchen,Electric Kettle,3,1292.41,0.2,3877.23,3101.78,UPI
+ORD-01127,2025-07-06,Mumbai,Sports,Water Bottle,2,463.7,0.15,927.4,788.29,Cash
+ORD-00478,2025-07-07,Chennai,Beauty,Hair Dryer,3,1445.93,0.0,4337.79,4337.79,UPI
+ORD-01115,2025-07-07,Hyderabad,Fashion,Sneakers,4,2355.07,0.0,9420.28,9420.28,Cash
+ORD-00918,2025-07-08,Bengaluru,Electronics,Bluetooth Speaker,2,1836.9,0.05,3673.8,3490.11,Card
+ORD-00838,2025-07-09,Bengaluru,Beauty,Hair Dryer,1,1313.26,0.15,1313.26,1116.27,Net Banking
+ORD-00717,2025-07-09,Chennai,Electronics,Bluetooth Speaker,3,1728.53,0.05,5185.59,4926.31,Card
+ORD-01066,2025-07-09,Pune,Home & Kitchen,Mixer Grinder,1,2239.95,0.2,2239.95,1791.96,Cash
+ORD-00783,2025-07-10,Pune,Electronics,Smart Watch,1,3153.59,0.0,3153.59,3153.59,UPI
+ORD-00297,2025-07-10,Pune,Beauty,Skin Care Kit,3,1020.06,0.15,3060.18,2601.15,Card
+ORD-00657,2025-07-10,Bengaluru,Home & Kitchen,Mixer Grinder,2,2592.91,0.1,5185.82,4667.24,Card
+ORD-00399,2025-07-11,Bengaluru,Fashion,Denim Jeans,3,1577.62,0.1,4732.86,4259.57,Card
+ORD-01160,2025-07-11,Chennai,Beauty,Skin Care Kit,3,1155.19,0.0,3465.57,3465.57,UPI
+ORD-00130,2025-07-11,Bengaluru,Electronics,Power Bank,3,1222.71,0.0,3668.13,3668.13,UPI
+ORD-00661,2025-07-11,Hyderabad,Electronics,Power Bank,4,726.9,0.1,2907.6,2616.84,Card
+ORD-00485,2025-07-12,Hyderabad,Sports,Yoga Mat,2,884.01,0.05,1768.02,1679.62,UPI
+ORD-00099,2025-07-12,Delhi,Electronics,Bluetooth Speaker,4,1953.67,0.0,7814.68,7814.68,Cash
+ORD-00440,2025-07-13,Chennai,Beauty,Perfume,1,1728.01,0.0,1728.01,1728.01,UPI
+ORD-00862,2025-07-13,Mumbai,Beauty,Face Serum,2,701.49,0.0,1402.98,1402.98,UPI
+ORD-01144,2025-07-14,Bengaluru,Electronics,Bluetooth Speaker,4,2601.12,0.15,10404.48,8843.81,Net Banking
+ORD-00191,2025-07-14,Delhi,Home & Kitchen,Cookware Set,1,2033.12,0.15,2033.12,1728.15,Cash
+ORD-00156,2025-07-14,Pune,Beauty,Skin Care Kit,3,992.89,0.0,2978.67,2978.67,Cash
+ORD-01192,2025-07-15,Chennai,Beauty,Hair Dryer,2,1301.14,0.1,2602.28,2342.05,Card
+ORD-00555,2025-07-15,Pune,Electronics,Wireless Earbuds,1,2000.86,0.1,2000.86,1800.77,UPI
+ORD-00340,2025-07-15,Mumbai,Electronics,Smart Watch,1,2924.59,0.0,2924.59,2924.59,UPI
+ORD-00273,2025-07-16,Chennai,Beauty,Skin Care Kit,1,1276.4,0.05,1276.4,1212.58,Card
+ORD-00860,2025-07-16,Chennai,Electronics,Smart Watch,3,3700.88,0.15,11102.64,9437.24,Card
+ORD-00690,2025-07-16,Bengaluru,Fashion,Backpack,2,1568.71,0.0,3137.42,3137.42,Card
+ORD-00414,2025-07-18,Hyderabad,Sports,Water Bottle,4,471.16,0.0,1884.64,1884.64,UPI
+ORD-01185,2025-07-19,Hyderabad,Fashion,Casual Shirt,3,933.55,0.0,2800.65,2800.65,UPI
+ORD-00016,2025-07-19,Hyderabad,Beauty,Skin Care Kit,3,1062.84,0.1,3188.52,2869.67,Cash
+ORD-00039,2025-07-19,Mumbai,Beauty,Perfume,4,1995.75,0.0,7983.0,7983.0,UPI
+ORD-00012,2025-07-19,Hyderabad,Beauty,Perfume,3,2251.95,0.05,6755.85,6418.06,UPI
+ORD-01019,2025-07-20,Hyderabad,Sports,Yoga Mat,4,853.04,0.1,3412.16,3070.94,Cash
+ORD-00477,2025-07-20,Delhi,Sports,Dumbbells,4,1375.29,0.0,5501.16,5501.16,UPI
+ORD-00311,2025-07-20,Mumbai,Fashion,Casual Shirt,2,1027.56,0.0,2055.12,2055.12,Net Banking
+ORD-00171,2025-07-21,Bengaluru,Sports,Yoga Mat,3,788.58,0.15,2365.74,2010.88,Card
+ORD-00899,2025-07-21,Chennai,Electronics,Wireless Earbuds,2,1528.02,0.1,3056.04,2750.44,Cash
+ORD-00246,2025-07-21,Bengaluru,Fashion,Denim Jeans,3,2222.47,0.05,6667.41,6334.04,Cash
+ORD-00202,2025-07-22,Bengaluru,Home & Kitchen,Storage Organizer,2,781.92,0.0,1563.84,1563.84,Net Banking
+ORD-00442,2025-07-23,Mumbai,Beauty,Skin Care Kit,2,1255.01,0.15,2510.02,2133.52,Card
+ORD-01028,2025-07-23,Mumbai,Sports,Dumbbells,3,1552.97,0.0,4658.91,4658.91,UPI
+ORD-00401,2025-07-23,Hyderabad,Home & Kitchen,Electric Kettle,1,1523.63,0.15,1523.63,1295.09,Card
+ORD-00741,2025-07-24,Bengaluru,Home & Kitchen,Electric Kettle,2,1392.57,0.05,2785.14,2645.88,UPI
+ORD-00564,2025-07-24,Bengaluru,Fashion,Denim Jeans,3,1178.65,0.05,3535.95,3359.15,UPI
+ORD-00941,2025-07-24,Hyderabad,Beauty,Perfume,4,1666.55,0.05,6666.2,6332.89,Card
+ORD-00378,2025-07-26,Bengaluru,Electronics,Smart Watch,2,2851.1,0.1,5702.2,5131.98,Cash
+ORD-00631,2025-07-26,Mumbai,Electronics,Bluetooth Speaker,3,2308.68,0.1,6926.04,6233.44,UPI
+ORD-01060,2025-07-26,Mumbai,Sports,Yoga Mat,1,806.77,0.0,806.77,806.77,Cash
+ORD-00951,2025-07-26,Chennai,Home & Kitchen,Mixer Grinder,4,2522.5,0.1,10090.0,9081.0,UPI
+ORD-00700,2025-07-27,Chennai,Fashion,Backpack,1,1843.35,0.0,1843.35,1843.35,UPI
+ORD-00045,2025-07-27,Pune,Sports,Running Shoes,3,3365.13,0.05,10095.39,9590.62,Card
+ORD-01133,2025-07-27,Mumbai,Fashion,Backpack,4,1350.78,0.15,5403.12,4592.65,Card
+ORD-00111,2025-07-27,Delhi,Electronics,Power Bank,3,1172.94,0.0,3518.82,3518.82,UPI
+ORD-01077,2025-07-27,Mumbai,Fashion,Sneakers,1,2703.21,0.15,2703.21,2297.73,UPI
+ORD-00416,2025-07-27,Mumbai,Home & Kitchen,Cookware Set,4,1739.73,0.0,6958.92,6958.92,UPI
+ORD-00842,2025-07-27,Chennai,Home & Kitchen,Storage Organizer,2,770.9,0.0,1541.8,1541.8,UPI
+ORD-00033,2025-07-27,Hyderabad,Beauty,Skin Care Kit,2,1169.92,0.0,2339.84,2339.84,UPI
+ORD-00703,2025-07-28,Chennai,Home & Kitchen,Electric Kettle,1,1188.91,0.0,1188.91,1188.91,Card
+ORD-01194,2025-07-28,Hyderabad,Electronics,Bluetooth Speaker,2,2096.22,0.0,4192.44,4192.44,Cash
+ORD-00180,2025-07-28,Hyderabad,Home & Kitchen,Storage Organizer,3,765.43,0.1,2296.29,2066.66,UPI
+ORD-00996,2025-07-28,Pune,Fashion,Sneakers,2,2344.56,0.05,4689.12,4454.66,Card
+ORD-00970,2025-07-28,Chennai,Electronics,Power Bank,3,1062.53,0.05,3187.59,3028.21,UPI
+ORD-00347,2025-07-28,Chennai,Fashion,Casual Shirt,3,875.48,0.1,2626.44,2363.8,UPI
+ORD-00637,2025-07-29,Hyderabad,Beauty,Face Serum,2,677.63,0.1,1355.26,1219.73,Card
+ORD-00089,2025-07-29,Delhi,Electronics,Bluetooth Speaker,4,2182.89,0.1,8731.56,7858.4,UPI
+ORD-00144,2025-07-30,Mumbai,Electronics,Smart Watch,2,2737.36,0.1,5474.72,4927.25,Net Banking
+ORD-00287,2025-07-30,Pune,Fashion,Casual Shirt,2,1047.13,0.05,2094.26,1989.55,Net Banking
+ORD-00079,2025-07-31,Pune,Electronics,Wireless Earbuds,4,2123.42,0.1,8493.68,7644.31,Card
+ORD-00755,2025-07-31,Chennai,Sports,Yoga Mat,4,969.56,0.1,3878.24,3490.42,Card
+ORD-00431,2025-07-31,Mumbai,Electronics,Bluetooth Speaker,1,2839.07,0.1,2839.07,2555.16,UPI
+ORD-01064,2025-08-01,Hyderabad,Home & Kitchen,Cookware Set,2,2002.56,0.0,4005.12,4005.12,Net Banking
+ORD-00774,2025-08-01,Chennai,Fashion,Backpack,4,1667.92,0.1,6671.68,6004.51,Net Banking
+ORD-00090,2025-08-02,Chennai,Sports,Dumbbells,4,1597.48,0.0,6389.92,6389.92,Cash
+ORD-00017,2025-08-02,Bengaluru,Fashion,Sneakers,3,2613.32,0.05,7839.96,7447.96,Cash
+ORD-00444,2025-08-02,Mumbai,Beauty,Hair Dryer,4,1390.88,0.15,5563.52,4728.99,UPI
+ORD-00265,2025-08-02,Mumbai,Sports,Running Shoes,1,3042.07,0.0,3042.07,3042.07,Card
+ORD-00901,2025-08-02,Mumbai,Home & Kitchen,Mixer Grinder,1,2973.68,0.0,2973.68,2973.68,Cash
+ORD-00410,2025-08-03,Bengaluru,Sports,Running Shoes,2,3426.28,0.0,6852.56,6852.56,Card
+ORD-00595,2025-08-03,Delhi,Beauty,Face Serum,2,781.0,0.1,1562.0,1405.8,Cash
+ORD-00763,2025-08-03,Mumbai,Electronics,Smart Watch,3,3398.59,0.2,10195.77,8156.62,Card
+ORD-00689,2025-08-03,Chennai,Electronics,Power Bank,4,1101.75,0.05,4407.0,4186.65,Card
+ORD-00057,2025-08-04,Hyderabad,Sports,Dumbbells,2,1438.94,0.1,2877.88,2590.09,UPI
+ORD-00080,2025-08-04,Mumbai,Home & Kitchen,Cookware Set,3,1849.42,0.1,5548.26,4993.43,UPI
+ORD-00262,2025-08-05,Chennai,Electronics,Bluetooth Speaker,3,2010.79,0.1,6032.37,5429.13,UPI
+ORD-00805,2025-08-05,Delhi,Fashion,Denim Jeans,2,2049.09,0.15,4098.18,3483.45,Card
+ORD-00234,2025-08-06,Pune,Beauty,Skin Care Kit,1,1247.13,0.0,1247.13,1247.13,UPI
+ORD-00757,2025-08-06,Mumbai,Electronics,Wireless Earbuds,3,1519.98,0.1,4559.94,4103.95,UPI
+ORD-00998,2025-08-06,Hyderabad,Home & Kitchen,Electric Kettle,4,1352.89,0.05,5411.56,5140.98,Net Banking
+ORD-00743,2025-08-07,Pune,Home & Kitchen,Electric Kettle,2,1299.6,0.1,2599.2,2339.28,UPI
+ORD-00692,2025-08-07,Pune,Electronics,Smart Watch,2,3228.01,0.15,6456.02,5487.62,Net Banking
+ORD-00058,2025-08-08,Pune,Home & Kitchen,Electric Kettle,4,1196.18,0.05,4784.72,4545.48,Net Banking
+ORD-00772,2025-08-08,Chennai,Beauty,Face Serum,3,553.58,0.0,1660.74,1660.74,Cash
+ORD-00991,2025-08-08,Bengaluru,Home & Kitchen,Storage Organizer,3,438.03,0.1,1314.09,1182.68,UPI
+ORD-00198,2025-08-08,Mumbai,Beauty,Skin Care Kit,4,1249.14,0.2,4996.56,3997.25,Cash
+ORD-00983,2025-08-09,Mumbai,Electronics,Bluetooth Speaker,2,2097.9,0.15,4195.8,3566.43,UPI
+ORD-00972,2025-08-09,Delhi,Fashion,Sneakers,4,1925.53,0.1,7702.12,6931.91,Card
+ORD-00121,2025-08-09,Hyderabad,Electronics,Wireless Earbuds,4,1941.85,0.0,7767.4,7767.4,UPI
+ORD-00636,2025-08-10,Chennai,Electronics,Bluetooth Speaker,2,1978.41,0.1,3956.82,3561.14,Net Banking
+ORD-01119,2025-08-11,Pune,Sports,Water Bottle,1,479.75,0.2,479.75,383.8,Cash
+ORD-00231,2025-08-11,Delhi,Electronics,Smart Watch,2,3432.25,0.1,6864.5,6178.05,UPI
+ORD-00068,2025-08-11,Hyderabad,Beauty,Hair Dryer,1,1644.12,0.0,1644.12,1644.12,Card
+ORD-00977,2025-08-11,Delhi,Fashion,Backpack,3,1422.55,0.0,4267.65,4267.65,Card
+ORD-00393,2025-08-12,Hyderabad,Home & Kitchen,Mixer Grinder,3,2204.19,0.1,6612.57,5951.31,Card
+ORD-00223,2025-08-12,Delhi,Sports,Running Shoes,1,3124.0,0.1,3124.0,2811.6,UPI
+ORD-00674,2025-08-12,Mumbai,Electronics,Smart Watch,3,3331.42,0.0,9994.26,9994.26,UPI
+ORD-00381,2025-08-13,Mumbai,Beauty,Face Serum,4,620.08,0.05,2480.32,2356.3,Net Banking
+ORD-01033,2025-08-13,Mumbai,Home & Kitchen,Cookware Set,3,2004.4,0.05,6013.2,5712.54,UPI
+ORD-00993,2025-08-13,Pune,Fashion,Sneakers,4,1850.93,0.0,7403.72,7403.72,Card
+ORD-00830,2025-08-13,Hyderabad,Electronics,Power Bank,3,1107.91,0.0,3323.73,3323.73,Net Banking
+ORD-01052,2025-08-14,Mumbai,Fashion,Sneakers,2,2299.82,0.0,4599.64,4599.64,UPI
+ORD-01047,2025-08-14,Mumbai,Fashion,Denim Jeans,2,1534.84,0.1,3069.68,2762.71,UPI
+ORD-00329,2025-08-14,Bengaluru,Fashion,Casual Shirt,3,782.24,0.0,2346.72,2346.72,UPI
+ORD-00956,2025-08-15,Mumbai,Sports,Running Shoes,2,2004.91,0.0,4009.82,4009.82,Net Banking
+ORD-00967,2025-08-15,Bengaluru,Sports,Water Bottle,4,386.32,0.0,1545.28,1545.28,UPI
+ORD-00780,2025-08-15,Hyderabad,Electronics,Wireless Earbuds,2,1520.22,0.05,3040.44,2888.42,Card
+ORD-00600,2025-08-15,Mumbai,Home & Kitchen,Storage Organizer,1,612.83,0.05,612.83,582.19,UPI
+ORD-00172,2025-08-15,Pune,Fashion,Denim Jeans,1,1632.47,0.0,1632.47,1632.47,Card
+ORD-00005,2025-08-16,Delhi,Home & Kitchen,Electric Kettle,2,1178.06,0.1,2356.12,2120.51,Cash
+ORD-00917,2025-08-16,Mumbai,Fashion,Sneakers,2,2659.62,0.05,5319.24,5053.28,Net Banking
+ORD-00833,2025-08-16,Hyderabad,Home & Kitchen,Mixer Grinder,4,2406.95,0.15,9627.8,8183.63,Card
+ORD-00785,2025-08-16,Pune,Fashion,Sneakers,3,2995.11,0.2,8985.33,7188.26,Card
+ORD-00798,2025-08-16,Mumbai,Home & Kitchen,Mixer Grinder,2,2924.18,0.0,5848.36,5848.36,Cash
+ORD-00587,2025-08-16,Hyderabad,Beauty,Skin Care Kit,4,1141.46,0.0,4565.84,4565.84,UPI
+ORD-00711,2025-08-17,Hyderabad,Beauty,Skin Care Kit,4,1196.33,0.05,4785.32,4546.05,UPI
+ORD-00119,2025-08-17,Hyderabad,Beauty,Face Serum,2,673.26,0.1,1346.52,1211.87,Card
+ORD-01006,2025-08-17,Bengaluru,Beauty,Face Serum,3,714.18,0.05,2142.54,2035.41,Card
+ORD-00577,2025-08-17,Mumbai,Fashion,Backpack,1,1617.97,0.0,1617.97,1617.97,Card
+ORD-00873,2025-08-17,Bengaluru,Fashion,Denim Jeans,4,1906.77,0.0,7627.08,7627.08,Net Banking
+ORD-00877,2025-08-17,Delhi,Electronics,Power Bank,3,1088.85,0.1,3266.55,2939.89,Cash
+ORD-00628,2025-08-17,Hyderabad,Home & Kitchen,Electric Kettle,3,1368.72,0.0,4106.16,4106.16,Card
+ORD-00025,2025-08-18,Bengaluru,Beauty,Skin Care Kit,3,977.39,0.15,2932.17,2492.34,Card
+ORD-00751,2025-08-18,Chennai,Electronics,Smart Watch,3,3115.99,0.05,9347.97,8880.57,UPI
+ORD-00515,2025-08-19,Mumbai,Home & Kitchen,Cookware Set,2,1906.65,0.0,3813.3,3813.3,Card
+ORD-01038,2025-08-19,Delhi,Fashion,Sneakers,3,2295.93,0.0,6887.79,6887.79,Card
+ORD-00884,2025-08-19,Mumbai,Sports,Yoga Mat,4,704.59,0.0,2818.36,2818.36,Card
+ORD-01073,2025-08-19,Mumbai,Sports,Water Bottle,1,370.94,0.1,370.94,333.85,Net Banking
+ORD-00072,2025-08-19,Bengaluru,Sports,Yoga Mat,1,886.15,0.1,886.15,797.53,Net Banking
+ORD-01072,2025-08-19,Hyderabad,Fashion,Casual Shirt,2,845.53,0.0,1691.06,1691.06,UPI
+ORD-00003,2025-08-20,Bengaluru,Electronics,Power Bank,3,825.84,0.0,2477.52,2477.52,UPI
+ORD-00355,2025-08-20,Hyderabad,Beauty,Face Serum,3,555.44,0.1,1666.32,1499.69,Card
+ORD-00539,2025-08-20,Hyderabad,Sports,Dumbbells,4,1874.01,0.15,7496.04,6371.63,Card
+ORD-00822,2025-08-20,Delhi,Fashion,Denim Jeans,4,1767.41,0.2,7069.64,5655.71,Net Banking
+ORD-00221,2025-08-20,Mumbai,Home & Kitchen,Electric Kettle,1,1329.21,0.1,1329.21,1196.29,UPI
+ORD-00007,2025-08-21,Hyderabad,Beauty,Perfume,4,1375.14,0.0,5500.56,5500.56,Card
+ORD-00020,2025-08-22,Chennai,Home & Kitchen,Storage Organizer,4,614.49,0.1,2457.96,2212.16,UPI
+ORD-00687,2025-08-22,Hyderabad,Sports,Running Shoes,1,2212.79,0.0,2212.79,2212.79,Card
+ORD-00749,2025-08-22,Pune,Fashion,Sneakers,1,1996.93,0.05,1996.93,1897.08,Cash
+ORD-00893,2025-08-22,Bengaluru,Fashion,Sneakers,3,1945.73,0.1,5837.19,5253.47,UPI
+ORD-00861,2025-08-23,Mumbai,Fashion,Denim Jeans,4,1578.86,0.1,6315.44,5683.9,UPI
+ORD-01009,2025-08-23,Bengaluru,Fashion,Casual Shirt,4,967.79,0.1,3871.16,3484.04,UPI
+ORD-01059,2025-08-24,Chennai,Electronics,Smart Watch,1,2962.78,0.0,2962.78,2962.78,UPI
+ORD-01068,2025-08-24,Bengaluru,Fashion,Denim Jeans,3,1483.43,0.2,4450.29,3560.23,Card
+ORD-01069,2025-08-24,Hyderabad,Fashion,Denim Jeans,3,2091.54,0.15,6274.62,5333.43,UPI
+ORD-00367,2025-08-24,Bengaluru,Fashion,Sneakers,1,2453.52,0.1,2453.52,2208.17,UPI
+ORD-00684,2025-08-24,Hyderabad,Sports,Dumbbells,1,1637.73,0.0,1637.73,1637.73,Card
+ORD-01041,2025-08-25,Hyderabad,Home & Kitchen,Mixer Grinder,2,2413.53,0.15,4827.06,4103.0,UPI
+ORD-00335,2025-08-25,Mumbai,Electronics,Bluetooth Speaker,1,2085.53,0.0,2085.53,2085.53,Net Banking
+ORD-00290,2025-08-26,Chennai,Sports,Yoga Mat,1,624.43,0.0,624.43,624.43,UPI
+ORD-00676,2025-08-26,Delhi,Fashion,Casual Shirt,4,950.75,0.1,3803.0,3422.7,Card
+ORD-00630,2025-08-26,Chennai,Electronics,Power Bank,4,1168.91,0.15,4675.64,3974.29,UPI
+ORD-00154,2025-08-26,Delhi,Electronics,Smart Watch,2,2952.61,0.1,5905.22,5314.7,UPI
+ORD-00299,2025-08-26,Hyderabad,Electronics,Bluetooth Speaker,1,2038.2,0.05,2038.2,1936.29,UPI
+ORD-00809,2025-08-27,Hyderabad,Electronics,Smart Watch,2,2925.38,0.1,5850.76,5265.68,Cash
+ORD-01118,2025-08-27,Pune,Beauty,Hair Dryer,1,1202.94,0.15,1202.94,1022.5,UPI
+ORD-00664,2025-08-28,Pune,Electronics,Bluetooth Speaker,4,1845.37,0.1,7381.48,6643.33,Cash
+ORD-00561,2025-08-28,Chennai,Fashion,Casual Shirt,1,992.01,0.0,992.01,992.01,UPI
+ORD-00199,2025-08-28,Pune,Fashion,Sneakers,3,2599.02,0.2,7797.06,6237.65,Cash
+ORD-00342,2025-08-28,Pune,Beauty,Skin Care Kit,4,1449.67,0.1,5798.68,5218.81,Card
+ORD-00050,2025-08-28,Mumbai,Sports,Yoga Mat,4,771.25,0.1,3085.0,2776.5,Net Banking
+ORD-00054,2025-08-28,Chennai,Sports,Running Shoes,4,3192.16,0.1,12768.64,11491.78,UPI
+ORD-00443,2025-08-28,Chennai,Home & Kitchen,Cookware Set,2,2264.27,0.2,4528.54,3622.83,UPI
+ORD-00047,2025-08-29,Mumbai,Electronics,Wireless Earbuds,3,1584.13,0.15,4752.39,4039.53,UPI
+ORD-01107,2025-08-29,Pune,Fashion,Backpack,2,1368.14,0.2,2736.28,2189.02,UPI
+ORD-01109,2025-08-29,Mumbai,Sports,Yoga Mat,3,822.86,0.0,2468.58,2468.58,UPI
+ORD-00040,2025-08-30,Pune,Beauty,Face Serum,2,828.42,0.1,1656.84,1491.16,Cash
+ORD-00782,2025-08-30,Mumbai,Home & Kitchen,Mixer Grinder,4,2582.38,0.1,10329.52,9296.57,UPI
+ORD-00686,2025-08-30,Pune,Fashion,Casual Shirt,3,1110.77,0.0,3332.31,3332.31,UPI
+ORD-00680,2025-08-30,Hyderabad,Home & Kitchen,Cookware Set,3,1550.64,0.2,4651.92,3721.54,Cash
+ORD-00616,2025-08-30,Hyderabad,Fashion,Backpack,3,1848.44,0.15,5545.32,4713.52,UPI
+ORD-01062,2025-08-31,Mumbai,Sports,Dumbbells,3,1646.76,0.1,4940.28,4446.25,Cash
+ORD-01082,2025-08-31,Mumbai,Home & Kitchen,Cookware Set,1,1809.56,0.0,1809.56,1809.56,UPI
+ORD-00800,2025-08-31,Hyderabad,Electronics,Smart Watch,3,3584.24,0.1,10752.72,9677.45,UPI
+ORD-00761,2025-09-01,Mumbai,Electronics,Wireless Earbuds,1,1625.68,0.0,1625.68,1625.68,UPI
+ORD-00167,2025-09-01,Mumbai,Electronics,Power Bank,4,1052.5,0.1,4210.0,3789.0,Card
+ORD-00968,2025-09-02,Hyderabad,Fashion,Backpack,3,1434.03,0.1,4302.09,3871.88,UPI
+ORD-01035,2025-09-02,Delhi,Sports,Dumbbells,1,1200.21,0.05,1200.21,1140.2,UPI
+ORD-00008,2025-09-02,Bengaluru,Sports,Running Shoes,1,2889.41,0.05,2889.41,2744.94,Card
+ORD-00356,2025-09-02,Hyderabad,Beauty,Perfume,1,1691.8,0.2,1691.8,1353.44,UPI
+ORD-00961,2025-09-04,Delhi,Home & Kitchen,Electric Kettle,4,1534.55,0.15,6138.2,5217.47,Cash
+ORD-00526,2025-09-04,Pune,Sports,Running Shoes,2,2900.26,0.1,5800.52,5220.47,Card
+ORD-00182,2025-09-05,Hyderabad,Fashion,Casual Shirt,1,728.85,0.15,728.85,619.52,UPI
+ORD-00498,2025-09-05,Mumbai,Electronics,Power Bank,4,961.46,0.0,3845.84,3845.84,Card
+ORD-00552,2025-09-05,Delhi,Beauty,Perfume,4,1875.53,0.15,7502.12,6376.8,UPI
+ORD-00905,2025-09-06,Hyderabad,Electronics,Smart Watch,4,3364.53,0.05,13458.12,12785.21,UPI
+ORD-00465,2025-09-06,Hyderabad,Sports,Water Bottle,1,422.08,0.1,422.08,379.87,UPI
+ORD-01116,2025-09-06,Pune,Fashion,Sneakers,3,2587.54,0.0,7762.62,7762.62,Net Banking
+ORD-00464,2025-09-06,Delhi,Home & Kitchen,Mixer Grinder,4,2764.52,0.05,11058.08,10505.18,Cash
+ORD-01102,2025-09-06,Hyderabad,Sports,Yoga Mat,1,892.01,0.0,892.01,892.01,Card
+ORD-00665,2025-09-07,Hyderabad,Fashion,Backpack,2,1473.58,0.1,2947.16,2652.44,Card
+ORD-00208,2025-09-07,Mumbai,Sports,Water Bottle,2,385.04,0.0,770.08,770.08,UPI
+ORD-00625,2025-09-07,Bengaluru,Beauty,Perfume,3,1561.01,0.0,4683.03,4683.03,Cash
+ORD-00127,2025-09-07,Delhi,Home & Kitchen,Cookware Set,3,1604.7,0.1,4814.1,4332.69,Card
+ORD-00733,2025-09-07,Chennai,Fashion,Sneakers,3,2313.32,0.1,6939.96,6245.96,Net Banking
+ORD-00091,2025-09-08,Bengaluru,Electronics,Smart Watch,1,3162.95,0.15,3162.95,2688.51,Cash
+ORD-01196,2025-09-08,Hyderabad,Sports,Yoga Mat,1,820.67,0.15,820.67,697.57,Cash
+ORD-01171,2025-09-09,Mumbai,Electronics,Power Bank,3,1178.89,0.05,3536.67,3359.84,UPI
+ORD-00525,2025-09-09,Mumbai,Fashion,Backpack,1,1500.62,0.2,1500.62,1200.5,UPI
+ORD-00655,2025-09-10,Delhi,Home & Kitchen,Storage Organizer,1,796.97,0.0,796.97,796.97,UPI
+ORD-00328,2025-09-10,Hyderabad,Electronics,Smart Watch,3,3619.84,0.05,10859.52,10316.54,UPI
+ORD-01161,2025-09-11,Delhi,Home & Kitchen,Mixer Grinder,3,2982.47,0.0,8947.41,8947.41,UPI
+ORD-00776,2025-09-12,Mumbai,Electronics,Wireless Earbuds,4,1750.8,0.15,7003.2,5952.72,UPI
+ORD-00556,2025-09-12,Bengaluru,Beauty,Face Serum,2,586.91,0.1,1173.82,1056.44,UPI
+ORD-00768,2025-09-13,Chennai,Home & Kitchen,Electric Kettle,1,1439.28,0.0,1439.28,1439.28,Cash
+ORD-01042,2025-09-13,Delhi,Home & Kitchen,Cookware Set,2,1955.01,0.0,3910.02,3910.02,Net Banking
+ORD-00897,2025-09-14,Chennai,Home & Kitchen,Mixer Grinder,2,2722.17,0.05,5444.34,5172.12,UPI
+ORD-00315,2025-09-14,Mumbai,Sports,Running Shoes,2,3164.85,0.1,6329.7,5696.73,UPI
+ORD-00389,2025-09-15,Bengaluru,Electronics,Bluetooth Speaker,1,2286.15,0.0,2286.15,2286.15,UPI
+ORD-00289,2025-09-15,Mumbai,Beauty,Perfume,1,1649.49,0.05,1649.49,1567.02,Card
+ORD-00614,2025-09-15,Chennai,Electronics,Wireless Earbuds,3,1682.56,0.05,5047.68,4795.3,UPI
+ORD-00437,2025-09-15,Delhi,Sports,Dumbbells,1,1259.14,0.0,1259.14,1259.14,UPI
+ORD-00218,2025-09-15,Mumbai,Beauty,Face Serum,3,665.14,0.0,1995.42,1995.42,Net Banking
+ORD-01123,2025-09-15,Mumbai,Home & Kitchen,Cookware Set,4,1900.86,0.15,7603.44,6462.92,Cash
+ORD-00425,2025-09-16,Mumbai,Fashion,Casual Shirt,2,827.79,0.2,1655.58,1324.46,Cash
+ORD-00509,2025-09-16,Delhi,Fashion,Sneakers,4,2472.51,0.2,9890.04,7912.03,UPI
+ORD-00227,2025-09-17,Mumbai,Fashion,Casual Shirt,1,956.3,0.0,956.3,956.3,Net Banking
+ORD-00035,2025-09-17,Hyderabad,Beauty,Face Serum,3,683.02,0.2,2049.06,1639.25,UPI
+ORD-00705,2025-09-17,Delhi,Electronics,Bluetooth Speaker,1,2569.38,0.0,2569.38,2569.38,UPI
+ORD-00146,2025-09-17,Bengaluru,Home & Kitchen,Mixer Grinder,2,2149.62,0.15,4299.24,3654.35,UPI
+ORD-00095,2025-09-18,Delhi,Electronics,Wireless Earbuds,4,1634.52,0.1,6538.08,5884.27,Cash
+ORD-00391,2025-09-18,Mumbai,Electronics,Bluetooth Speaker,4,1836.61,0.05,7346.44,6979.12,UPI
+ORD-01015,2025-09-18,Hyderabad,Sports,Dumbbells,3,1611.31,0.05,4833.93,4592.23,Cash
+ORD-01166,2025-09-19,Mumbai,Home & Kitchen,Electric Kettle,3,1071.22,0.05,3213.66,3052.98,UPI
+ORD-00314,2025-09-19,Delhi,Fashion,Casual Shirt,4,939.93,0.2,3759.72,3007.78,UPI
+ORD-00670,2025-09-19,Chennai,Electronics,Wireless Earbuds,1,1983.67,0.05,1983.67,1884.49,UPI
+ORD-00778,2025-09-19,Mumbai,Sports,Water Bottle,2,429.02,0.0,858.04,858.04,Card
+ORD-00429,2025-09-19,Hyderabad,Sports,Dumbbells,2,1591.83,0.0,3183.66,3183.66,Card
+ORD-01105,2025-09-20,Pune,Electronics,Bluetooth Speaker,1,2772.17,0.1,2772.17,2494.95,UPI
+ORD-00374,2025-09-20,Mumbai,Sports,Running Shoes,1,2885.72,0.2,2885.72,2308.58,Card
+ORD-00648,2025-09-21,Delhi,Beauty,Hair Dryer,2,1395.87,0.05,2791.74,2652.15,Net Banking
+ORD-01193,2025-09-21,Bengaluru,Electronics,Power Bank,4,1218.81,0.1,4875.24,4387.72,Net Banking
+ORD-00392,2025-09-22,Hyderabad,Home & Kitchen,Mixer Grinder,1,2427.61,0.0,2427.61,2427.61,Cash
+ORD-00434,2025-09-22,Bengaluru,Beauty,Face Serum,3,649.04,0.0,1947.12,1947.12,UPI
+ORD-00300,2025-09-22,Bengaluru,Beauty,Perfume,4,1486.48,0.15,5945.92,5054.03,UPI
+ORD-00078,2025-09-23,Bengaluru,Fashion,Casual Shirt,4,701.4,0.15,2805.6,2384.76,UPI
+ORD-00345,2025-09-23,Chennai,Electronics,Smart Watch,2,2852.43,0.2,5704.86,4563.89,Cash
+ORD-00799,2025-09-23,Chennai,Fashion,Sneakers,2,2499.5,0.0,4999.0,4999.0,Card
+ORD-00093,2025-09-23,Chennai,Fashion,Denim Jeans,3,1623.24,0.0,4869.72,4869.72,UPI
+ORD-01089,2025-09-23,Mumbai,Electronics,Wireless Earbuds,1,1547.89,0.0,1547.89,1547.89,UPI
+ORD-00427,2025-09-23,Chennai,Fashion,Denim Jeans,4,1298.24,0.0,5192.96,5192.96,UPI
+ORD-00469,2025-09-24,Pune,Home & Kitchen,Cookware Set,3,1595.34,0.0,4786.02,4786.02,Card
+ORD-00569,2025-09-24,Bengaluru,Beauty,Face Serum,2,819.89,0.05,1639.78,1557.79,Cash
+ORD-00041,2025-09-24,Pune,Electronics,Bluetooth Speaker,1,2345.33,0.05,2345.33,2228.06,UPI
+ORD-00267,2025-09-25,Hyderabad,Electronics,Smart Watch,4,3335.29,0.05,13341.16,12674.1,Card
+ORD-00451,2025-09-25,Chennai,Electronics,Bluetooth Speaker,1,2397.86,0.1,2397.86,2158.07,Net Banking
+ORD-00296,2025-09-25,Chennai,Sports,Yoga Mat,3,835.52,0.1,2506.56,2255.9,Card
+ORD-00164,2025-09-25,Hyderabad,Beauty,Perfume,4,1691.47,0.2,6765.88,5412.7,Cash
+ORD-00055,2025-09-26,Hyderabad,Electronics,Smart Watch,4,3889.73,0.05,15558.92,14780.97,UPI
+ORD-01132,2025-09-27,Delhi,Electronics,Smart Watch,1,3729.46,0.1,3729.46,3356.51,Net Banking
+ORD-00021,2025-09-28,Bengaluru,Beauty,Skin Care Kit,3,1107.48,0.0,3322.44,3322.44,UPI
+ORD-00353,2025-09-28,Bengaluru,Home & Kitchen,Electric Kettle,3,1423.56,0.1,4270.68,3843.61,UPI
+ORD-00568,2025-09-28,Mumbai,Fashion,Casual Shirt,2,933.2,0.15,1866.4,1586.44,Card
+ORD-01070,2025-09-28,Bengaluru,Home & Kitchen,Storage Organizer,2,814.82,0.1,1629.64,1466.68,UPI
+ORD-00322,2025-09-28,Pune,Home & Kitchen,Cookware Set,2,1640.8,0.15,3281.6,2789.36,Card
+ORD-01157,2025-09-28,Hyderabad,Sports,Water Bottle,2,408.13,0.1,816.26,734.63,Cash
+ORD-00283,2025-09-28,Delhi,Electronics,Power Bank,2,1106.03,0.0,2212.06,2212.06,Card
+ORD-00382,2025-09-29,Mumbai,Sports,Yoga Mat,1,597.5,0.15,597.5,507.88,UPI
+ORD-00118,2025-09-29,Mumbai,Home & Kitchen,Electric Kettle,2,1421.64,0.1,2843.28,2558.95,Cash
+ORD-00895,2025-09-30,Bengaluru,Fashion,Backpack,4,1858.16,0.15,7432.64,6317.74,UPI
+ORD-00540,2025-09-30,Hyderabad,Home & Kitchen,Storage Organizer,4,731.62,0.1,2926.48,2633.83,UPI
+ORD-00557,2025-09-30,Mumbai,Electronics,Power Bank,3,1083.52,0.05,3250.56,3088.03,Net Banking
+ORD-00698,2025-09-30,Hyderabad,Electronics,Smart Watch,2,2775.91,0.1,5551.82,4996.64,Card
+ORD-00413,2025-09-30,Chennai,Electronics,Wireless Earbuds,2,1703.12,0.0,3406.24,3406.24,UPI
+ORD-00645,2025-10-01,Chennai,Electronics,Power Bank,1,948.6,0.0,948.6,948.6,UPI
+ORD-00455,2025-10-01,Hyderabad,Fashion,Denim Jeans,1,1700.74,0.15,1700.74,1445.63,Cash
+ORD-00524,2025-10-01,Mumbai,Beauty,Face Serum,4,597.32,0.15,2389.28,2030.89,UPI
+ORD-01154,2025-10-02,Hyderabad,Sports,Dumbbells,3,1556.39,0.05,4669.17,4435.71,UPI
+ORD-00739,2025-10-02,Hyderabad,Electronics,Smart Watch,4,3717.97,0.1,14871.88,13384.69,Card
+ORD-01023,2025-10-03,Hyderabad,Sports,Water Bottle,4,486.65,0.05,1946.6,1849.27,UPI
+ORD-01153,2025-10-03,Bengaluru,Sports,Running Shoes,3,2728.51,0.0,8185.53,8185.53,Card
+ORD-01134,2025-10-03,Chennai,Electronics,Smart Watch,4,3301.42,0.05,13205.68,12545.4,Card
+ORD-00889,2025-10-04,Mumbai,Electronics,Wireless Earbuds,2,1655.15,0.0,3310.3,3310.3,Card
+ORD-01044,2025-10-05,Pune,Electronics,Wireless Earbuds,4,2089.21,0.1,8356.84,7521.16,Card
+ORD-00821,2025-10-05,Mumbai,Fashion,Sneakers,3,2394.33,0.15,7182.99,6105.54,UPI
+ORD-00520,2025-10-06,Hyderabad,Electronics,Power Bank,1,1360.92,0.05,1360.92,1292.87,Cash
+ORD-00132,2025-10-06,Bengaluru,Home & Kitchen,Mixer Grinder,4,2665.41,0.1,10661.64,9595.48,Card
+ORD-00812,2025-10-06,Mumbai,Electronics,Wireless Earbuds,2,1395.43,0.2,2790.86,2232.69,Card
+ORD-00232,2025-10-06,Mumbai,Home & Kitchen,Electric Kettle,1,1382.25,0.05,1382.25,1313.14,UPI
+ORD-00409,2025-10-06,Mumbai,Electronics,Power Bank,2,1146.66,0.05,2293.32,2178.65,Card
+ORD-00499,2025-10-07,Pune,Fashion,Casual Shirt,2,1053.98,0.1,2107.96,1897.16,Card
+ORD-00934,2025-10-07,Delhi,Sports,Dumbbells,2,1351.32,0.15,2702.64,2297.24,Cash
+ORD-00635,2025-10-07,Mumbai,Fashion,Casual Shirt,1,845.14,0.2,845.14,676.11,Card
+ORD-00736,2025-10-07,Mumbai,Home & Kitchen,Cookware Set,1,1470.9,0.05,1470.9,1397.36,UPI
+ORD-00767,2025-10-09,Mumbai,Electronics,Wireless Earbuds,2,1719.3,0.05,3438.6,3266.67,UPI
+ORD-00237,2025-10-09,Delhi,Beauty,Perfume,1,1954.29,0.2,1954.29,1563.43,UPI
+ORD-00163,2025-10-10,Chennai,Sports,Water Bottle,2,468.19,0.0,936.38,936.38,UPI
+ORD-00723,2025-10-10,Hyderabad,Electronics,Power Bank,1,1232.21,0.2,1232.21,985.77,UPI
+ORD-00919,2025-10-10,Chennai,Electronics,Bluetooth Speaker,2,2705.44,0.15,5410.88,4599.25,Card
+ORD-00428,2025-10-10,Hyderabad,Sports,Water Bottle,4,420.62,0.1,1682.48,1514.23,Cash
+ORD-00138,2025-10-10,Bengaluru,Fashion,Casual Shirt,4,979.39,0.15,3917.56,3329.93,UPI
+ORD-00579,2025-10-10,Pune,Fashion,Sneakers,2,2555.38,0.1,5110.76,4599.68,Cash
+ORD-00759,2025-10-11,Chennai,Fashion,Sneakers,4,2090.46,0.1,8361.84,7525.66,UPI
+ORD-00343,2025-10-11,Delhi,Electronics,Smart Watch,1,2669.2,0.0,2669.2,2669.2,Card
+ORD-00071,2025-10-11,Hyderabad,Home & Kitchen,Mixer Grinder,1,2680.72,0.1,2680.72,2412.65,UPI
+ORD-00309,2025-10-12,Bengaluru,Beauty,Perfume,2,1937.29,0.1,3874.58,3487.12,UPI
+ORD-00349,2025-10-12,Chennai,Electronics,Wireless Earbuds,4,2092.83,0.0,8371.32,8371.32,Cash
+ORD-00211,2025-10-13,Hyderabad,Fashion,Sneakers,1,2305.93,0.15,2305.93,1960.04,UPI
+ORD-00547,2025-10-13,Bengaluru,Fashion,Denim Jeans,2,1782.78,0.1,3565.56,3209.0,Cash
+ORD-00853,2025-10-14,Chennai,Sports,Dumbbells,3,1551.7,0.0,4655.1,4655.1,Net Banking
+ORD-00976,2025-10-15,Bengaluru,Beauty,Skin Care Kit,1,1558.38,0.1,1558.38,1402.54,UPI
+ORD-00476,2025-10-15,Chennai,Home & Kitchen,Cookware Set,1,1660.43,0.0,1660.43,1660.43,Card
+ORD-00373,2025-10-15,Hyderabad,Home & Kitchen,Mixer Grinder,3,2664.37,0.0,7993.11,7993.11,UPI
+ORD-00365,2025-10-16,Chennai,Beauty,Hair Dryer,1,1162.84,0.1,1162.84,1046.56,Net Banking
+ORD-00282,2025-10-16,Bengaluru,Sports,Water Bottle,1,461.47,0.05,461.47,438.4,Cash
+ORD-00018,2025-10-16,Pune,Fashion,Sneakers,3,1638.03,0.0,4914.09,4914.09,Card
+ORD-00931,2025-10-16,Delhi,Home & Kitchen,Mixer Grinder,1,2779.22,0.15,2779.22,2362.34,Card
+ORD-01058,2025-10-17,Bengaluru,Electronics,Bluetooth Speaker,3,2294.42,0.0,6883.26,6883.26,Card
+ORD-01000,2025-10-17,Hyderabad,Electronics,Power Bank,4,1077.08,0.0,4308.32,4308.32,UPI
+ORD-01168,2025-10-17,Chennai,Home & Kitchen,Mixer Grinder,4,2827.16,0.1,11308.64,10177.78,UPI
+ORD-01143,2025-10-17,Chennai,Electronics,Bluetooth Speaker,3,2269.64,0.1,6808.92,6128.03,UPI
+ORD-00537,2025-10-17,Mumbai,Sports,Running Shoes,2,2346.67,0.0,4693.34,4693.34,UPI
+ORD-00818,2025-10-18,Chennai,Fashion,Casual Shirt,3,892.84,0.2,2678.52,2142.82,UPI
+ORD-00370,2025-10-18,Bengaluru,Home & Kitchen,Mixer Grinder,3,2571.98,0.1,7715.94,6944.35,UPI
+ORD-00566,2025-10-18,Bengaluru,Electronics,Bluetooth Speaker,3,1816.58,0.05,5449.74,5177.25,Card
+ORD-00575,2025-10-18,Bengaluru,Fashion,Sneakers,1,2859.14,0.2,2859.14,2287.31,UPI
+ORD-00385,2025-10-19,Chennai,Beauty,Face Serum,4,808.36,0.2,3233.44,2586.75,UPI
+ORD-00339,2025-10-19,Delhi,Electronics,Bluetooth Speaker,4,2473.91,0.0,9895.64,9895.64,UPI
+ORD-00911,2025-10-19,Hyderabad,Fashion,Casual Shirt,2,819.07,0.05,1638.14,1556.23,Net Banking
+ORD-00850,2025-10-19,Bengaluru,Fashion,Casual Shirt,4,876.66,0.05,3506.64,3331.31,UPI
+ORD-00244,2025-10-19,Hyderabad,Beauty,Perfume,4,2053.41,0.15,8213.64,6981.59,UPI
+ORD-01176,2025-10-20,Hyderabad,Beauty,Hair Dryer,4,1552.89,0.1,6211.56,5590.4,UPI
+ORD-00362,2025-10-20,Mumbai,Home & Kitchen,Electric Kettle,4,1301.23,0.05,5204.92,4944.67,UPI
+ORD-00709,2025-10-20,Mumbai,Beauty,Face Serum,1,729.62,0.0,729.62,729.62,Card
+ORD-00508,2025-10-20,Hyderabad,Home & Kitchen,Electric Kettle,3,1117.12,0.05,3351.36,3183.79,Card
+ORD-00624,2025-10-20,Chennai,Fashion,Backpack,3,1425.11,0.1,4275.33,3847.8,Card
+ORD-00082,2025-10-21,Hyderabad,Electronics,Power Bank,3,921.81,0.0,2765.43,2765.43,Cash
+ORD-00932,2025-10-21,Chennai,Home & Kitchen,Electric Kettle,1,1110.44,0.15,1110.44,943.87,UPI
+ORD-01032,2025-10-22,Hyderabad,Home & Kitchen,Mixer Grinder,4,2223.3,0.0,8893.2,8893.2,UPI
+ORD-00548,2025-10-23,Delhi,Home & Kitchen,Electric Kettle,3,1437.16,0.15,4311.48,3664.76,Net Banking
+ORD-00364,2025-10-23,Delhi,Beauty,Perfume,4,2155.03,0.1,8620.12,7758.11,Card
+ORD-01099,2025-10-24,Pune,Fashion,Casual Shirt,4,911.01,0.15,3644.04,3097.43,UPI
+ORD-00268,2025-10-24,Mumbai,Fashion,Backpack,1,1704.39,0.15,1704.39,1448.73,UPI
+ORD-00634,2025-10-24,Hyderabad,Home & Kitchen,Electric Kettle,3,1398.96,0.15,4196.88,3567.35,UPI
+ORD-00545,2025-10-25,Bengaluru,Sports,Water Bottle,4,440.89,0.15,1763.56,1499.03,Card
+ORD-00750,2025-10-25,Hyderabad,Electronics,Bluetooth Speaker,3,2311.02,0.0,6933.06,6933.06,UPI
+ORD-00559,2025-10-25,Hyderabad,Beauty,Face Serum,1,595.03,0.0,595.03,595.03,UPI
+ORD-00259,2025-10-25,Mumbai,Home & Kitchen,Mixer Grinder,1,2917.51,0.0,2917.51,2917.51,UPI
+ORD-00117,2025-10-25,Mumbai,Beauty,Face Serum,2,672.74,0.0,1345.48,1345.48,Net Banking
+ORD-00480,2025-10-25,Chennai,Fashion,Casual Shirt,2,909.26,0.0,1818.52,1818.52,Card
+ORD-00160,2025-10-26,Delhi,Home & Kitchen,Mixer Grinder,3,2754.48,0.15,8263.44,7023.92,UPI
+ORD-00210,2025-10-26,Mumbai,Electronics,Wireless Earbuds,1,2133.18,0.1,2133.18,1919.86,Cash
+ORD-00230,2025-10-26,Delhi,Sports,Dumbbells,3,1669.62,0.0,5008.86,5008.86,UPI
+ORD-00085,2025-10-27,Mumbai,Beauty,Perfume,2,2246.47,0.1,4492.94,4043.65,Card
+ORD-00521,2025-10-27,Delhi,Electronics,Power Bank,1,851.37,0.15,851.37,723.66,Cash
+ORD-01014,2025-10-27,Delhi,Beauty,Skin Care Kit,1,1239.72,0.2,1239.72,991.78,UPI
+ORD-01172,2025-10-28,Hyderabad,Electronics,Wireless Earbuds,4,1541.66,0.2,6166.64,4933.31,UPI
+ORD-01131,2025-10-29,Bengaluru,Fashion,Denim Jeans,2,2073.41,0.1,4146.82,3732.14,UPI
+ORD-00813,2025-10-29,Bengaluru,Sports,Dumbbells,4,1368.31,0.1,5473.24,4925.92,UPI
+ORD-00611,2025-10-30,Mumbai,Electronics,Power Bank,4,801.11,0.2,3204.44,2563.55,Card
+ORD-00745,2025-10-30,Bengaluru,Electronics,Smart Watch,3,2899.62,0.0,8698.86,8698.86,UPI
+ORD-00747,2025-10-30,Mumbai,Electronics,Wireless Earbuds,4,1935.5,0.15,7742.0,6580.7,UPI
+ORD-00902,2025-10-30,Bengaluru,Electronics,Smart Watch,1,2702.44,0.15,2702.44,2297.07,UPI
+ORD-00037,2025-10-31,Mumbai,Home & Kitchen,Storage Organizer,3,648.13,0.2,1944.39,1555.51,UPI
+ORD-00276,2025-10-31,Mumbai,Fashion,Casual Shirt,4,912.04,0.0,3648.16,3648.16,Net Banking
+ORD-00789,2025-10-31,Mumbai,Home & Kitchen,Electric Kettle,4,1044.41,0.2,4177.64,3342.11,UPI
+ORD-01084,2025-10-31,Mumbai,Sports,Water Bottle,3,351.43,0.0,1054.29,1054.29,UPI
+ORD-00407,2025-11-01,Mumbai,Electronics,Wireless Earbuds,1,1634.94,0.0,1634.94,1634.94,Net Banking
+ORD-00215,2025-11-01,Chennai,Electronics,Smart Watch,4,3585.59,0.1,14342.36,12908.12,UPI
+ORD-00439,2025-11-01,Bengaluru,Fashion,Denim Jeans,1,1560.1,0.1,1560.1,1404.09,Card
+ORD-00811,2025-11-01,Pune,Sports,Yoga Mat,4,939.21,0.0,3756.84,3756.84,Cash
+ORD-01031,2025-11-02,Pune,Beauty,Perfume,1,1934.41,0.15,1934.41,1644.25,Cash
+ORD-01114,2025-11-02,Pune,Home & Kitchen,Electric Kettle,1,1291.26,0.2,1291.26,1033.01,Cash
+ORD-00352,2025-11-02,Hyderabad,Sports,Yoga Mat,1,775.68,0.0,775.68,775.68,UPI
+ORD-00312,2025-11-02,Mumbai,Fashion,Backpack,3,1454.97,0.1,4364.91,3928.42,Card
+ORD-01008,2025-11-03,Bengaluru,Electronics,Bluetooth Speaker,2,2236.26,0.1,4472.52,4025.27,Card
+ORD-01150,2025-11-03,Mumbai,Fashion,Denim Jeans,4,1844.73,0.15,7378.92,6272.08,Card
+ORD-01053,2025-11-04,Mumbai,Home & Kitchen,Storage Organizer,2,598.52,0.05,1197.04,1137.19,Card
+ORD-00667,2025-11-04,Hyderabad,Home & Kitchen,Electric Kettle,4,1266.39,0.0,5065.56,5065.56,Cash
+ORD-01180,2025-11-04,Bengaluru,Fashion,Denim Jeans,1,1591.16,0.0,1591.16,1591.16,Cash
+ORD-00458,2025-11-04,Hyderabad,Electronics,Wireless Earbuds,1,1560.95,0.1,1560.95,1404.86,Card
+ORD-00787,2025-11-04,Chennai,Home & Kitchen,Storage Organizer,1,785.54,0.0,785.54,785.54,UPI
+ORD-00426,2025-11-04,Delhi,Beauty,Skin Care Kit,2,1141.63,0.05,2283.26,2169.1,UPI
+ORD-01130,2025-11-04,Hyderabad,Electronics,Bluetooth Speaker,4,1883.42,0.05,7533.68,7157.0,Card
+ORD-00746,2025-11-04,Hyderabad,Home & Kitchen,Storage Organizer,2,808.98,0.0,1617.96,1617.96,Card
+ORD-00038,2025-11-05,Mumbai,Home & Kitchen,Electric Kettle,2,1507.04,0.0,3014.08,3014.08,UPI
+ORD-00605,2025-11-05,Bengaluru,Sports,Yoga Mat,4,828.77,0.1,3315.08,2983.57,Card
+ORD-00536,2025-11-05,Hyderabad,Home & Kitchen,Storage Organizer,4,828.9,0.0,3315.6,3315.6,Net Banking
+ORD-00827,2025-11-05,Mumbai,Home & Kitchen,Cookware Set,2,2019.19,0.0,4038.38,4038.38,Card
+ORD-00466,2025-11-05,Hyderabad,Home & Kitchen,Mixer Grinder,2,2266.16,0.0,4532.32,4532.32,UPI
+ORD-00583,2025-11-05,Mumbai,Electronics,Smart Watch,1,3482.3,0.05,3482.3,3308.18,UPI
+ORD-00510,2025-11-06,Hyderabad,Home & Kitchen,Cookware Set,2,1649.44,0.0,3298.88,3298.88,UPI
+ORD-00837,2025-11-06,Delhi,Fashion,Casual Shirt,1,850.55,0.1,850.55,765.5,Card
+ORD-00519,2025-11-06,Hyderabad,Electronics,Bluetooth Speaker,1,2265.37,0.1,2265.37,2038.83,UPI
+ORD-00474,2025-11-06,Chennai,Home & Kitchen,Electric Kettle,3,1304.19,0.05,3912.57,3716.94,UPI
+ORD-00764,2025-11-06,Hyderabad,Home & Kitchen,Storage Organizer,2,697.4,0.0,1394.8,1394.8,UPI
+ORD-00446,2025-11-06,Pune,Electronics,Power Bank,1,1108.85,0.0,1108.85,1108.85,UPI
+ORD-00286,2025-11-06,Hyderabad,Sports,Running Shoes,2,2888.23,0.15,5776.46,4909.99,UPI
+ORD-00662,2025-11-07,Delhi,Fashion,Denim Jeans,1,1423.37,0.05,1423.37,1352.2,UPI
+ORD-00269,2025-11-07,Delhi,Fashion,Denim Jeans,4,1546.78,0.05,6187.12,5877.76,UPI
+ORD-01013,2025-11-08,Mumbai,Beauty,Skin Care Kit,2,1442.65,0.0,2885.3,2885.3,Card
+ORD-00346,2025-11-08,Pune,Fashion,Sneakers,4,2116.93,0.0,8467.72,8467.72,UPI
+ORD-00070,2025-11-08,Delhi,Home & Kitchen,Storage Organizer,3,657.42,0.0,1972.26,1972.26,Card
+ORD-00094,2025-11-08,Bengaluru,Home & Kitchen,Cookware Set,4,1917.64,0.0,7670.56,7670.56,UPI
+ORD-00228,2025-11-08,Delhi,Fashion,Backpack,2,1398.03,0.0,2796.06,2796.06,Card
+ORD-00938,2025-11-10,Hyderabad,Beauty,Perfume,1,2219.11,0.0,2219.11,2219.11,UPI
+ORD-00354,2025-11-10,Bengaluru,Electronics,Bluetooth Speaker,2,2438.04,0.1,4876.08,4388.47,Cash
+ORD-00500,2025-11-10,Hyderabad,Fashion,Sneakers,1,2863.1,0.05,2863.1,2719.94,UPI
+ORD-00718,2025-11-10,Mumbai,Fashion,Sneakers,3,3260.7,0.05,9782.1,9292.99,Card
+ORD-00714,2025-11-10,Delhi,Electronics,Smart Watch,4,2976.32,0.0,11905.28,11905.28,Net Banking
+ORD-00197,2025-11-11,Bengaluru,Fashion,Backpack,1,1678.76,0.0,1678.76,1678.76,UPI
+ORD-00155,2025-11-11,Mumbai,Electronics,Power Bank,4,1041.98,0.15,4167.92,3542.73,UPI
+ORD-00704,2025-11-11,Pune,Electronics,Bluetooth Speaker,2,2980.03,0.2,5960.06,4768.05,UPI
+ORD-00321,2025-11-11,Hyderabad,Beauty,Skin Care Kit,4,1280.51,0.0,5122.04,5122.04,UPI
+ORD-01156,2025-11-11,Bengaluru,Fashion,Denim Jeans,1,1930.06,0.15,1930.06,1640.55,Card
+ORD-00973,2025-11-12,Delhi,Sports,Running Shoes,1,2524.61,0.0,2524.61,2524.61,Cash
+ORD-00779,2025-11-12,Chennai,Fashion,Backpack,2,1337.16,0.05,2674.32,2540.6,UPI
+ORD-00133,2025-11-12,Pune,Fashion,Sneakers,4,2115.64,0.1,8462.56,7616.3,Card
+ORD-00100,2025-11-12,Delhi,Fashion,Casual Shirt,4,911.08,0.2,3644.32,2915.46,UPI
+ORD-00209,2025-11-12,Hyderabad,Fashion,Backpack,4,1330.68,0.0,5322.72,5322.72,UPI
+ORD-00110,2025-11-13,Mumbai,Sports,Dumbbells,3,1477.58,0.1,4432.74,3989.47,Card
+ORD-01065,2025-11-13,Mumbai,Fashion,Sneakers,1,2244.51,0.0,2244.51,2244.51,Net Banking
+ORD-00971,2025-11-13,Delhi,Fashion,Sneakers,3,2322.9,0.1,6968.7,6271.83,Card
+ORD-01011,2025-11-14,Pune,Home & Kitchen,Storage Organizer,3,660.71,0.2,1982.13,1585.7,Card
+ORD-00159,2025-11-14,Chennai,Beauty,Hair Dryer,2,1445.7,0.0,2891.4,2891.4,Cash
+ORD-00836,2025-11-15,Delhi,Home & Kitchen,Mixer Grinder,4,2880.93,0.0,11523.72,11523.72,Card
+ORD-00881,2025-11-15,Mumbai,Home & Kitchen,Mixer Grinder,1,3308.8,0.1,3308.8,2977.92,UPI
+ORD-00906,2025-11-15,Mumbai,Home & Kitchen,Mixer Grinder,2,2562.25,0.15,5124.5,4355.82,Card
+ORD-00022,2025-11-16,Hyderabad,Sports,Running Shoes,3,2900.83,0.15,8702.49,7397.12,UPI
+ORD-00083,2025-11-16,Bengaluru,Electronics,Power Bank,1,890.58,0.05,890.58,846.05,UPI
+ORD-00791,2025-11-16,Hyderabad,Electronics,Wireless Earbuds,1,2038.19,0.15,2038.19,1732.46,UPI
+ORD-00257,2025-11-17,Hyderabad,Electronics,Smart Watch,4,3423.14,0.1,13692.56,12323.3,Card
+ORD-00190,2025-11-17,Bengaluru,Home & Kitchen,Electric Kettle,3,1152.49,0.1,3457.47,3111.72,Cash
+ORD-00997,2025-11-17,Hyderabad,Home & Kitchen,Cookware Set,1,1958.09,0.05,1958.09,1860.19,Net Banking
+ORD-00712,2025-11-18,Pune,Electronics,Power Bank,4,1001.67,0.1,4006.68,3606.01,UPI
+ORD-00493,2025-11-18,Mumbai,Electronics,Bluetooth Speaker,3,2212.43,0.15,6637.29,5641.7,Card
+ORD-00114,2025-11-18,Hyderabad,Electronics,Smart Watch,2,2872.3,0.05,5744.6,5457.37,UPI
+ORD-01117,2025-11-19,Hyderabad,Sports,Dumbbells,2,1552.31,0.1,3104.62,2794.16,UPI
+ORD-00497,2025-11-19,Chennai,Home & Kitchen,Mixer Grinder,2,2822.94,0.1,5645.88,5081.29,UPI
+ORD-00482,2025-11-19,Delhi,Home & Kitchen,Cookware Set,1,1758.68,0.05,1758.68,1670.75,Card
+ORD-01078,2025-11-19,Bengaluru,Home & Kitchen,Mixer Grinder,1,2343.31,0.1,2343.31,2108.98,Net Banking
+ORD-00922,2025-11-19,Hyderabad,Home & Kitchen,Cookware Set,1,1744.45,0.0,1744.45,1744.45,Cash
+ORD-00673,2025-11-19,Mumbai,Home & Kitchen,Storage Organizer,1,618.6,0.0,618.6,618.6,Cash
+ORD-00945,2025-11-20,Bengaluru,Electronics,Bluetooth Speaker,1,2337.05,0.05,2337.05,2220.2,Net Banking
+ORD-00942,2025-11-21,Hyderabad,Beauty,Perfume,2,1568.05,0.05,3136.1,2979.29,UPI
+ORD-00278,2025-11-21,Hyderabad,Sports,Yoga Mat,1,842.97,0.05,842.97,800.82,Card
+ORD-00618,2025-11-21,Pune,Home & Kitchen,Storage Organizer,3,753.7,0.05,2261.1,2148.05,UPI
+ORD-00716,2025-11-21,Hyderabad,Electronics,Bluetooth Speaker,2,2413.67,0.1,4827.34,4344.61,Net Banking
+ORD-00116,2025-11-22,Hyderabad,Sports,Dumbbells,3,1416.99,0.2,4250.97,3400.78,UPI
+ORD-00087,2025-11-22,Mumbai,Fashion,Denim Jeans,4,1619.34,0.1,6477.36,5829.62,Card
+ORD-00134,2025-11-22,Hyderabad,Electronics,Smart Watch,4,3912.68,0.1,15650.72,14085.65,UPI
+ORD-00958,2025-11-22,Hyderabad,Electronics,Power Bank,3,1196.73,0.0,3590.19,3590.19,UPI
+ORD-00880,2025-11-22,Bengaluru,Electronics,Smart Watch,1,2874.2,0.1,2874.2,2586.78,UPI
+ORD-00036,2025-11-23,Hyderabad,Fashion,Sneakers,4,2612.35,0.0,10449.4,10449.4,UPI
+ORD-00152,2025-11-23,Mumbai,Home & Kitchen,Cookware Set,4,2095.65,0.05,8382.6,7963.47,Cash
+ORD-00350,2025-11-23,Hyderabad,Fashion,Sneakers,1,2495.7,0.0,2495.7,2495.7,Net Banking
+ORD-00946,2025-11-24,Bengaluru,Home & Kitchen,Mixer Grinder,1,2289.36,0.0,2289.36,2289.36,UPI
+ORD-00613,2025-11-24,Hyderabad,Beauty,Face Serum,2,785.46,0.1,1570.92,1413.83,UPI
+ORD-00452,2025-11-24,Chennai,Fashion,Sneakers,2,2376.99,0.0,4753.98,4753.98,UPI
+ORD-00424,2025-11-24,Hyderabad,Electronics,Smart Watch,4,3483.45,0.1,13933.8,12540.42,UPI
+ORD-00467,2025-11-25,Hyderabad,Fashion,Casual Shirt,2,1052.01,0.2,2104.02,1683.22,Card
+ORD-00560,2025-11-26,Hyderabad,Home & Kitchen,Storage Organizer,2,894.35,0.15,1788.7,1520.39,Card
+ORD-00682,2025-11-26,Mumbai,Home & Kitchen,Storage Organizer,2,724.78,0.05,1449.56,1377.08,UPI
+ORD-00506,2025-11-26,Bengaluru,Electronics,Power Bank,4,1187.66,0.1,4750.64,4275.58,UPI
+ORD-00473,2025-11-26,Mumbai,Electronics,Power Bank,4,1151.15,0.15,4604.6,3913.91,UPI
+ORD-01027,2025-11-26,Mumbai,Electronics,Smart Watch,2,3451.54,0.05,6903.08,6557.93,Card
+ORD-00771,2025-11-27,Delhi,Fashion,Casual Shirt,3,1027.33,0.05,3081.99,2927.89,UPI
+ORD-00161,2025-11-27,Hyderabad,Electronics,Smart Watch,3,3370.99,0.0,10112.97,10112.97,Cash
+ORD-00135,2025-11-27,Pune,Fashion,Casual Shirt,3,889.98,0.0,2669.94,2669.94,UPI
+ORD-00076,2025-11-28,Hyderabad,Sports,Running Shoes,1,2644.01,0.0,2644.01,2644.01,Card
+ORD-00621,2025-11-29,Mumbai,Electronics,Bluetooth Speaker,2,2101.4,0.05,4202.8,3992.66,UPI
+ORD-01135,2025-11-29,Bengaluru,Home & Kitchen,Cookware Set,3,2214.08,0.0,6642.24,6642.24,UPI
+ORD-00141,2025-11-29,Delhi,Fashion,Sneakers,3,2546.01,0.1,7638.03,6874.23,UPI
+ORD-01148,2025-11-29,Chennai,Home & Kitchen,Mixer Grinder,3,2527.05,0.0,7581.15,7581.15,UPI
+ORD-00026,2025-11-30,Delhi,Electronics,Power Bank,4,1165.98,0.0,4663.92,4663.92,Cash
+ORD-00379,2025-11-30,Chennai,Home & Kitchen,Cookware Set,3,2546.68,0.0,7640.04,7640.04,UPI
+ORD-00513,2025-11-30,Bengaluru,Beauty,Skin Care Kit,4,960.51,0.1,3842.04,3457.84,UPI
+ORD-00876,2025-11-30,Pune,Electronics,Smart Watch,1,2904.3,0.1,2904.3,2613.87,UPI
+ORD-01092,2025-11-30,Hyderabad,Home & Kitchen,Cookware Set,4,1787.05,0.05,7148.2,6790.79,UPI
+ORD-00647,2025-12-01,Bengaluru,Fashion,Denim Jeans,2,1809.64,0.15,3619.28,3076.39,Net Banking
+ORD-00535,2025-12-01,Mumbai,Electronics,Power Bank,2,1051.51,0.0,2103.02,2103.02,Card
+ORD-00217,2025-12-01,Hyderabad,Home & Kitchen,Mixer Grinder,3,2990.23,0.0,8970.69,8970.69,Card
+ORD-00962,2025-12-01,Bengaluru,Fashion,Sneakers,2,2784.68,0.2,5569.36,4455.49,UPI
+ORD-00652,2025-12-01,Delhi,Beauty,Hair Dryer,1,986.75,0.0,986.75,986.75,UPI
+ORD-01112,2025-12-02,Pune,Beauty,Face Serum,1,784.28,0.15,784.28,666.64,Net Banking
+ORD-00331,2025-12-02,Pune,Electronics,Bluetooth Speaker,3,2785.47,0.0,8356.41,8356.41,Cash
+ORD-00965,2025-12-02,Delhi,Fashion,Casual Shirt,3,1008.41,0.0,3025.23,3025.23,UPI
+ORD-00106,2025-12-02,Bengaluru,Beauty,Hair Dryer,2,1306.44,0.1,2612.88,2351.59,Card
+ORD-00546,2025-12-03,Delhi,Electronics,Smart Watch,3,3196.64,0.1,9589.92,8630.93,UPI
+ORD-00551,2025-12-03,Pune,Electronics,Smart Watch,1,3773.54,0.05,3773.54,3584.86,UPI
+ORD-00882,2025-12-03,Hyderabad,Fashion,Backpack,3,1593.26,0.1,4779.78,4301.8,Card
+ORD-01141,2025-12-04,Chennai,Sports,Running Shoes,1,2682.4,0.05,2682.4,2548.28,UPI
+ORD-00187,2025-12-04,Mumbai,Fashion,Backpack,3,1557.59,0.05,4672.77,4439.13,UPI
+ORD-00149,2025-12-04,Pune,Electronics,Wireless Earbuds,4,1472.74,0.05,5890.96,5596.41,Card
+ORD-00542,2025-12-04,Bengaluru,Electronics,Bluetooth Speaker,1,2292.31,0.0,2292.31,2292.31,UPI
+ORD-00920,2025-12-04,Delhi,Electronics,Smart Watch,1,3385.13,0.1,3385.13,3046.62,Card
+ORD-00380,2025-12-04,Mumbai,Home & Kitchen,Storage Organizer,3,815.2,0.15,2445.6,2078.76,UPI
+ORD-00817,2025-12-04,Chennai,Electronics,Power Bank,2,1083.49,0.2,2166.98,1733.58,UPI
+ORD-00200,2025-12-05,Hyderabad,Electronics,Power Bank,2,1138.39,0.0,2276.78,2276.78,UPI
+ORD-00027,2025-12-06,Pune,Home & Kitchen,Electric Kettle,4,1116.29,0.15,4465.16,3795.39,Card
+ORD-00103,2025-12-06,Mumbai,Home & Kitchen,Cookware Set,2,2257.68,0.05,4515.36,4289.59,Card
+ORD-00060,2025-12-07,Hyderabad,Home & Kitchen,Storage Organizer,3,639.65,0.15,1918.95,1631.11,UPI
+ORD-00454,2025-12-07,Pune,Home & Kitchen,Storage Organizer,1,952.28,0.1,952.28,857.05,Net Banking
+ORD-00307,2025-12-08,Hyderabad,Electronics,Bluetooth Speaker,3,2345.25,0.1,7035.75,6332.18,Card
+ORD-00271,2025-12-08,Mumbai,Beauty,Perfume,4,1640.29,0.0,6561.16,6561.16,UPI
+ORD-00720,2025-12-08,Chennai,Sports,Running Shoes,1,2630.88,0.05,2630.88,2499.34,Cash
+ORD-00292,2025-12-08,Delhi,Sports,Yoga Mat,2,850.49,0.1,1700.98,1530.88,Card
+ORD-00011,2025-12-08,Delhi,Beauty,Skin Care Kit,3,1383.03,0.0,4149.09,4149.09,Cash
+ORD-00586,2025-12-08,Mumbai,Electronics,Wireless Earbuds,2,2350.76,0.05,4701.52,4466.44,UPI
+ORD-00503,2025-12-09,Hyderabad,Electronics,Smart Watch,2,3492.12,0.05,6984.24,6635.03,UPI
+ORD-00929,2025-12-09,Mumbai,Home & Kitchen,Storage Organizer,1,822.21,0.1,822.21,739.99,UPI
+ORD-00804,2025-12-09,Mumbai,Home & Kitchen,Storage Organizer,4,757.97,0.0,3031.88,3031.88,UPI
+ORD-00721,2025-12-09,Pune,Fashion,Denim Jeans,4,1803.0,0.15,7212.0,6130.2,Cash
+ORD-01087,2025-12-10,Mumbai,Fashion,Backpack,2,1985.81,0.1,3971.62,3574.46,Cash
+ORD-00936,2025-12-10,Chennai,Beauty,Face Serum,2,665.76,0.15,1331.52,1131.79,Cash
+ORD-00870,2025-12-10,Mumbai,Electronics,Wireless Earbuds,1,1747.17,0.0,1747.17,1747.17,UPI
+ORD-00032,2025-12-11,Mumbai,Electronics,Smart Watch,3,3522.42,0.0,10567.26,10567.26,Card
+ORD-00489,2025-12-11,Mumbai,Electronics,Wireless Earbuds,3,2065.95,0.1,6197.85,5578.06,Cash
+ORD-00678,2025-12-11,Hyderabad,Home & Kitchen,Cookware Set,1,2133.56,0.15,2133.56,1813.53,Cash
+ORD-00101,2025-12-12,Delhi,Electronics,Bluetooth Speaker,1,2383.66,0.05,2383.66,2264.48,UPI
+ORD-00567,2025-12-12,Hyderabad,Electronics,Power Bank,1,919.0,0.1,919.0,827.1,Net Banking
+ORD-01076,2025-12-13,Hyderabad,Electronics,Smart Watch,3,3775.85,0.15,11327.55,9628.42,UPI
+ORD-00585,2025-12-13,Bengaluru,Home & Kitchen,Storage Organizer,3,776.82,0.2,2330.46,1864.37,Card
+ORD-00659,2025-12-13,Hyderabad,Fashion,Sneakers,3,2647.91,0.0,7943.73,7943.73,UPI
+ORD-00792,2025-12-13,Pune,Electronics,Smart Watch,1,2599.41,0.0,2599.41,2599.41,UPI
+ORD-01162,2025-12-14,Mumbai,Sports,Water Bottle,2,434.68,0.05,869.36,825.89,Cash
+ORD-00570,2025-12-14,Delhi,Sports,Running Shoes,3,2655.33,0.0,7965.99,7965.99,Cash
+ORD-00580,2025-12-14,Chennai,Electronics,Bluetooth Speaker,4,2222.44,0.15,8889.76,7556.3,Card
+ORD-00638,2025-12-14,Hyderabad,Sports,Running Shoes,3,2509.85,0.1,7529.55,6776.59,UPI
+ORD-00797,2025-12-14,Pune,Sports,Running Shoes,4,2634.62,0.1,10538.48,9484.63,UPI
+ORD-01199,2025-12-14,Delhi,Fashion,Casual Shirt,2,862.06,0.0,1724.12,1724.12,UPI
+ORD-01090,2025-12-15,Hyderabad,Beauty,Skin Care Kit,4,1141.92,0.0,4567.68,4567.68,UPI
+ORD-00731,2025-12-15,Bengaluru,Fashion,Backpack,4,1579.03,0.05,6316.12,6000.31,UPI
+ORD-00368,2025-12-15,Delhi,Beauty,Skin Care Kit,2,1294.74,0.0,2589.48,2589.48,Net Banking
+ORD-01007,2025-12-15,Hyderabad,Fashion,Backpack,2,1683.98,0.0,3367.96,3367.96,UPI
+ORD-00357,2025-12-15,Chennai,Fashion,Casual Shirt,1,1008.38,0.05,1008.38,957.96,UPI
+ORD-00820,2025-12-16,Bengaluru,Electronics,Bluetooth Speaker,4,1565.57,0.1,6262.28,5636.05,Card
+ORD-00081,2025-12-16,Bengaluru,Electronics,Power Bank,3,944.97,0.0,2834.91,2834.91,UPI
+ORD-00888,2025-12-16,Hyderabad,Beauty,Perfume,3,2004.63,0.15,6013.89,5111.81,Card
+ORD-00388,2025-12-18,Delhi,Fashion,Backpack,3,1644.91,0.15,4934.73,4194.52,Card
+ORD-00979,2025-12-19,Hyderabad,Sports,Yoga Mat,4,751.6,0.1,3006.4,2705.76,UPI
+ORD-01149,2025-12-19,Hyderabad,Electronics,Bluetooth Speaker,1,1956.56,0.15,1956.56,1663.08,Card
+ORD-00957,2025-12-19,Hyderabad,Electronics,Power Bank,4,783.28,0.05,3133.12,2976.46,UPI
+ORD-00203,2025-12-20,Chennai,Fashion,Backpack,2,1727.04,0.0,3454.08,3454.08,Cash
+ORD-00748,2025-12-20,Chennai,Fashion,Casual Shirt,3,1031.44,0.05,3094.32,2939.6,UPI
+ORD-00802,2025-12-20,Mumbai,Beauty,Face Serum,1,637.23,0.1,637.23,573.51,Card
+ORD-00457,2025-12-20,Pune,Electronics,Bluetooth Speaker,4,2442.82,0.05,9771.28,9282.72,Cash
+ORD-00239,2025-12-20,Bengaluru,Home & Kitchen,Storage Organizer,4,763.26,0.15,3053.04,2595.08,Card
+ORD-01020,2025-12-21,Chennai,Electronics,Power Bank,1,940.07,0.0,940.07,940.07,UPI
+ORD-00581,2025-12-21,Delhi,Fashion,Backpack,4,1596.18,0.15,6384.72,5427.01,Cash
+ORD-00448,2025-12-21,Chennai,Sports,Yoga Mat,3,717.1,0.0,2151.3,2151.3,Card
+ORD-00310,2025-12-21,Hyderabad,Fashion,Backpack,3,1619.69,0.05,4859.07,4616.12,Net Banking
+ORD-00044,2025-12-21,Hyderabad,Sports,Water Bottle,3,433.07,0.0,1299.21,1299.21,Net Banking
+ORD-01025,2025-12-22,Hyderabad,Electronics,Bluetooth Speaker,3,2443.36,0.1,7330.08,6597.07,UPI
+ORD-00668,2025-12-23,Hyderabad,Sports,Water Bottle,4,411.76,0.2,1647.04,1317.63,UPI
+ORD-00675,2025-12-24,Chennai,Electronics,Smart Watch,2,3502.22,0.1,7004.44,6304.0,UPI
+ORD-01128,2025-12-24,Delhi,Electronics,Power Bank,1,1236.22,0.2,1236.22,988.98,Net Banking
+ORD-00494,2025-12-25,Hyderabad,Electronics,Smart Watch,2,3653.79,0.0,7307.58,7307.58,Cash
+ORD-00359,2025-12-25,Delhi,Home & Kitchen,Cookware Set,2,1201.94,0.0,2403.88,2403.88,UPI
+ORD-00629,2025-12-25,Bengaluru,Sports,Water Bottle,2,430.98,0.05,861.96,818.86,UPI
+ORD-00183,2025-12-25,Bengaluru,Fashion,Backpack,2,1468.23,0.0,2936.46,2936.46,UPI
+ORD-00773,2025-12-26,Bengaluru,Sports,Water Bottle,4,517.63,0.15,2070.52,1759.94,Net Banking
+ORD-00338,2025-12-26,Pune,Electronics,Power Bank,1,958.18,0.2,958.18,766.54,UPI
+ORD-00924,2025-12-26,Hyderabad,Fashion,Sneakers,1,1930.12,0.1,1930.12,1737.11,Cash
+ORD-00019,2025-12-26,Hyderabad,Sports,Dumbbells,3,1367.42,0.15,4102.26,3486.92,UPI
+ORD-00729,2025-12-26,Mumbai,Beauty,Skin Care Kit,1,859.73,0.1,859.73,773.76,Card
+ORD-00985,2025-12-26,Bengaluru,Home & Kitchen,Storage Organizer,4,830.91,0.2,3323.64,2658.91,UPI
+ORD-00935,2025-12-27,Pune,Beauty,Face Serum,3,632.37,0.0,1897.11,1897.11,UPI
+ORD-00845,2025-12-27,Pune,Sports,Water Bottle,1,502.63,0.0,502.63,502.63,UPI
+ORD-00109,2025-12-27,Hyderabad,Home & Kitchen,Mixer Grinder,2,2456.88,0.1,4913.76,4422.38,Cash
+ORD-01037,2025-12-28,Mumbai,Sports,Yoga Mat,4,766.8,0.0,3067.2,3067.2,UPI
+ORD-00591,2025-12-28,Pune,Home & Kitchen,Electric Kettle,2,1324.9,0.15,2649.8,2252.33,UPI
+ORD-00594,2025-12-29,Delhi,Beauty,Hair Dryer,4,1439.03,0.1,5756.12,5180.51,UPI
+ORD-00544,2025-12-29,Mumbai,Fashion,Backpack,2,1874.54,0.2,3749.08,2999.26,UPI
+ORD-00953,2025-12-29,Mumbai,Electronics,Wireless Earbuds,1,1895.39,0.0,1895.39,1895.39,UPI
+ORD-00303,2025-12-29,Chennai,Sports,Water Bottle,1,382.8,0.05,382.8,363.66,UPI
+ORD-00859,2025-12-29,Chennai,Electronics,Wireless Earbuds,4,1865.44,0.15,7461.76,6342.5,Cash
+ORD-01026,2025-12-29,Pune,Fashion,Denim Jeans,2,1682.34,0.0,3364.68,3364.68,Card
+ORD-01018,2025-12-30,Hyderabad,Fashion,Sneakers,1,2326.25,0.05,2326.25,2209.94,UPI
+ORD-00233,2025-12-30,Mumbai,Fashion,Backpack,4,1702.31,0.2,6809.24,5447.39,Card
+ORD-00653,2025-12-30,Hyderabad,Beauty,Hair Dryer,3,1158.77,0.1,3476.31,3128.68,UPI
+ORD-01061,2025-12-31,Bengaluru,Electronics,Smart Watch,1,3516.02,0.15,3516.02,2988.62,Cash
+ORD-01049,2025-12-31,Bengaluru,Sports,Dumbbells,4,1846.63,0.05,7386.52,7017.19,Cash
+ORD-00964,2025-12-31,Hyderabad,Sports,Dumbbells,3,1396.33,0.0,4188.99,4188.99,UPI
+ORD-01067,2025-12-31,Hyderabad,Fashion,Denim Jeans,2,1695.61,0.1,3391.22,3052.1,UPI
+ORD-00913,2025-12-31,Mumbai,Fashion,Denim Jeans,1,1841.4,0.05,1841.4,1749.33,Card
+ORD-00777,2025-12-31,Mumbai,Fashion,Sneakers,1,3262.73,0.1,3262.73,2936.46,Card
+ORD-00649,2025-12-31,Hyderabad,Electronics,Smart Watch,1,3197.54,0.1,3197.54,2877.79,Card
